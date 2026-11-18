@@ -1,0 +1,7765 @@
+{
+ "attributes": [
+  "OutsideOuterBoundary",
+  "OuterBoundaryDist",
+  "Intersect",
+  "InWater",
+  "InDoor"
+ ],
+ "collision": {
+  "BarinadeStage": {
+   "airwall": 72,
+   "box": [
+    [
+     2.0,
+     87.0,
+     -142.0
+    ],
+    [
+     72.0,
+     134.0,
+     -30.0
+    ]
+   ],
+   "file": "col/BarinadeStage.vgz",
+   "link": 43779,
+   "ragdoll": {
+    "both": 43755,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 43779
+  },
+  "BigOctoStage": {
+   "airwall": 594,
+   "box": [
+    [
+     -62.0,
+     67.0,
+     -122.0
+    ],
+    [
+     -2.0,
+     125.0,
+     -63.0
+    ]
+   ],
+   "file": "col/BigOctoStage.vgz",
+   "link": 15293,
+   "ragdoll": {
+    "both": 15293,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 15293
+  },
+  "BongoBongoStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -239.0,
+     -51.0,
+     -71.0
+    ],
+    [
+     -38.0,
+     69.0,
+     131.0
+    ]
+   ],
+   "file": "col/BongoBongoStage.vgz",
+   "link": 7648,
+   "ragdoll": {
+    "both": 7648,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 7648
+  },
+  "BossRushIntervalRoom": {
+   "airwall": 602,
+   "box": [
+    [
+     -63.0,
+     -13.0,
+     -99.0
+    ],
+    [
+     66.0,
+     56.0,
+     71.0
+    ]
+   ],
+   "file": "col/BossRushIntervalRoom.vgz",
+   "link": 7598,
+   "ragdoll": {
+    "both": 3844,
+    "ragdoll only": 0,
+    "rough twin": 98
+   },
+   "triangles": 7696
+  },
+  "BottomOfTheWell": {
+   "airwall": 608,
+   "box": [
+    [
+     -75.0,
+     72.0,
+     -124.0
+    ],
+    [
+     47.0,
+     123.0,
+     74.0
+    ]
+   ],
+   "file": "col/BottomOfTheWell.vgz",
+   "link": 126458,
+   "ragdoll": {
+    "both": 120053,
+    "ragdoll only": 0,
+    "rough twin": 23836
+   },
+   "triangles": 150294
+  },
+  "CrumblingGanonCastle": {
+   "airwall": 1675,
+   "box": [
+    [
+     -110.0,
+     140.0,
+     -54.0
+    ],
+    [
+     56.0,
+     258.0,
+     59.0
+    ]
+   ],
+   "file": "col/CrumblingGanonCastle.vgz",
+   "link": 228623,
+   "ragdoll": {
+    "both": 145663,
+    "ragdoll only": 0,
+    "rough twin": 340985
+   },
+   "triangles": 569608
+  },
+  "DarkLinkStage": {
+   "airwall": 44,
+   "box": [
+    [
+     -117.0,
+     112.0,
+     -101.0
+    ],
+    [
+     -39.0,
+     153.0,
+     -22.0
+    ]
+   ],
+   "file": "col/DarkLinkStage.vgz",
+   "link": 16488,
+   "ragdoll": {
+    "both": 16277,
+    "ragdoll only": 0,
+    "rough twin": 868
+   },
+   "triangles": 17356
+  },
+  "DeadHandStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -22.0,
+     80.0,
+     -124.0
+    ],
+    [
+     27.0,
+     123.0,
+     -51.0
+    ]
+   ],
+   "file": "col/DeadHandStage.vgz",
+   "link": 4040,
+   "ragdoll": {
+    "both": 3914,
+    "ragdoll only": 0,
+    "rough twin": 142
+   },
+   "triangles": 4182
+  },
+  "DeathMountainCrater_Adult": {
+   "airwall": 2228,
+   "box": [
+    [
+     -117.0,
+     55.0,
+     -66.0
+    ],
+    [
+     61.0,
+     169.0,
+     86.0
+    ]
+   ],
+   "file": "col/DeathMountainCrater_Adult.vgz",
+   "link": 447662,
+   "ragdoll": {
+    "both": 400086,
+    "ragdoll only": 0,
+    "rough twin": 135310
+   },
+   "triangles": 582972
+  },
+  "DeathMountainCrater_Child": {
+   "airwall": 2336,
+   "box": [
+    [
+     -117.0,
+     55.0,
+     -66.0
+    ],
+    [
+     61.0,
+     169.0,
+     86.0
+    ]
+   ],
+   "file": "col/DeathMountainCrater_Child.vgz",
+   "link": 448792,
+   "ragdoll": {
+    "both": 401156,
+    "ragdoll only": 0,
+    "rough twin": 135310
+   },
+   "triangles": 584102
+  },
+  "DeathMountainTrail_Adult": {
+   "airwall": 8778,
+   "box": [
+    [
+     -90.0,
+     46.0,
+     -233.0
+    ],
+    [
+     68.0,
+     246.0,
+     121.0
+    ]
+   ],
+   "file": "col/DeathMountainTrail_Adult.vgz",
+   "link": 958134,
+   "ragdoll": {
+    "both": 883212,
+    "ragdoll only": 0,
+    "rough twin": 235532
+   },
+   "triangles": 1193666
+  },
+  "DeathMountainTrail_Child": {
+   "airwall": 8736,
+   "box": [
+    [
+     -90.0,
+     46.0,
+     -233.0
+    ],
+    [
+     68.0,
+     246.0,
+     121.0
+    ]
+   ],
+   "file": "col/DeathMountainTrail_Child.vgz",
+   "link": 956643,
+   "ragdoll": {
+    "both": 881852,
+    "ragdoll only": 0,
+    "rough twin": 235198
+   },
+   "triangles": 1191841
+  },
+  "DesertColossus_Adult": {
+   "airwall": 1968,
+   "box": [
+    [
+     -220.0,
+     65.0,
+     -118.0
+    ],
+    [
+     73.0,
+     195.0,
+     114.0
+    ]
+   ],
+   "file": "col/DesertColossus_Adult.vgz",
+   "link": 477946,
+   "ragdoll": {
+    "both": 463775,
+    "ragdoll only": 0,
+    "rough twin": 56309
+   },
+   "triangles": 534255
+  },
+  "DesertColossus_Child": {
+   "airwall": 1968,
+   "box": [
+    [
+     -220.0,
+     65.0,
+     -118.0
+    ],
+    [
+     73.0,
+     195.0,
+     114.0
+    ]
+   ],
+   "file": "col/DesertColossus_Child.vgz",
+   "link": 477946,
+   "ragdoll": {
+    "both": 463775,
+    "ragdoll only": 0,
+    "rough twin": 56309
+   },
+   "triangles": 534255
+  },
+  "DinolfosStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -82.0,
+     58.0,
+     -17.0
+    ],
+    [
+     -34.0,
+     93.0,
+     23.0
+    ]
+   ],
+   "file": "col/DinolfosStage.vgz",
+   "link": 2392,
+   "ragdoll": {
+    "both": 2021,
+    "ragdoll only": 0,
+    "rough twin": 1552
+   },
+   "triangles": 3944
+  },
+  "DodongoCavern": {
+   "airwall": 865,
+   "box": [
+    [
+     -73.0,
+     61.0,
+     -125.0
+    ],
+    [
+     137.0,
+     137.0,
+     84.0
+    ]
+   ],
+   "file": "col/DodongoCavern.vgz",
+   "link": 473652,
+   "ragdoll": {
+    "both": 435593,
+    "ragdoll only": 0,
+    "rough twin": 131409
+   },
+   "triangles": 605061
+  },
+  "DodongoStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -88.0,
+     52.0,
+     -137.0
+    ],
+    [
+     137.0,
+     118.0,
+     97.0
+    ]
+   ],
+   "file": "col/DodongoStage.vgz",
+   "link": 129299,
+   "ragdoll": {
+    "both": 128151,
+    "ragdoll only": 0,
+    "rough twin": 5016
+   },
+   "triangles": 134315
+  },
+  "EnemyMuseum": {
+   "airwall": 2864,
+   "box": [
+    [
+     -97.0,
+     -13.0,
+     -96.0
+    ],
+    [
+     96.0,
+     25.0,
+     97.0
+    ]
+   ],
+   "file": "col/EnemyMuseum.vgz",
+   "link": 19622,
+   "ragdoll": {
+    "both": 17776,
+    "ragdoll only": 0,
+    "rough twin": 4986
+   },
+   "triangles": 24608
+  },
+  "FinalBattleField": {
+   "airwall": 54,
+   "box": [
+    [
+     -41.0,
+     70.0,
+     -42.0
+    ],
+    [
+     64.0,
+     119.0,
+     40.0
+    ]
+   ],
+   "file": "col/FinalBattleField.vgz",
+   "link": 103754,
+   "ragdoll": {
+    "both": 48966,
+    "ragdoll only": 0,
+    "rough twin": 117239
+   },
+   "triangles": 220993
+  },
+  "FireTemple": {
+   "airwall": 2140,
+   "box": [
+    [
+     -132.0,
+     85.0,
+     -64.0
+    ],
+    [
+     130.0,
+     221.0,
+     66.0
+    ]
+   ],
+   "file": "col/FireTemple.vgz",
+   "link": 341362,
+   "ragdoll": {
+    "both": 311951,
+    "ragdoll only": 0,
+    "rough twin": 72105
+   },
+   "triangles": 413467
+  },
+  "FlareDancerStage": {
+   "airwall": 104,
+   "box": [
+    [
+     -97.0,
+     134.0,
+     -23.0
+    ],
+    [
+     -47.0,
+     207.0,
+     32.0
+    ]
+   ],
+   "file": "col/FlareDancerStage.vgz",
+   "link": 6043,
+   "ragdoll": {
+    "both": 5391,
+    "ragdoll only": 0,
+    "rough twin": 2464
+   },
+   "triangles": 8507
+  },
+  "ForestTemple": {
+   "airwall": 8439,
+   "box": [
+    [
+     -92.0,
+     47.0,
+     -90.0
+    ],
+    [
+     80.0,
+     154.0,
+     130.0
+    ]
+   ],
+   "file": "col/ForestTemple.vgz",
+   "link": 172098,
+   "ragdoll": {
+    "both": 162415,
+    "ragdoll only": 0,
+    "rough twin": 11587
+   },
+   "triangles": 183685
+  },
+  "GanonCastle": {
+   "airwall": 880,
+   "box": [
+    [
+     -2.0,
+     -27.0,
+     166.0
+    ],
+    [
+     183.0,
+     148.0,
+     402.0
+    ]
+   ],
+   "file": "col/GanonCastle.vgz",
+   "link": 131290,
+   "ragdoll": {
+    "both": 102782,
+    "ragdoll only": 0,
+    "rough twin": 62615
+   },
+   "triangles": 193905
+  },
+  "GanonStage": {
+   "airwall": 28,
+   "box": [
+    [
+     -109.0,
+     58.0,
+     -106.0
+    ],
+    [
+     92.0,
+     129.0,
+     110.0
+    ]
+   ],
+   "file": "col/GanonStage.vgz",
+   "link": 143851,
+   "ragdoll": {
+    "both": 52481,
+    "ragdoll only": 0,
+    "rough twin": 203933
+   },
+   "triangles": 347784
+  },
+  "GanondorfStage": {
+   "airwall": 1040,
+   "box": [
+    [
+     -41.0,
+     144.0,
+     -64.0
+    ],
+    [
+     29.0,
+     208.0,
+     24.0
+    ]
+   ],
+   "file": "col/GanondorfStage.vgz",
+   "link": 16090,
+   "ragdoll": {
+    "both": 15083,
+    "ragdoll only": 0,
+    "rough twin": 1449
+   },
+   "triangles": 17539
+  },
+  "GerudoFortress_Adult": {
+   "airwall": 3623,
+   "box": [
+    [
+     -93.0,
+     77.0,
+     -161.0
+    ],
+    [
+     234.0,
+     162.0,
+     109.0
+    ]
+   ],
+   "file": "col/GerudoFortress_Adult.vgz",
+   "link": 517399,
+   "ragdoll": {
+    "both": 485157,
+    "ragdoll only": 0,
+    "rough twin": 79260
+   },
+   "triangles": 596659
+  },
+  "GerudoThiefStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -512.0,
+     75.0,
+     -512.0
+    ],
+    [
+     512.0,
+     195.0,
+     512.0
+    ]
+   ],
+   "file": "col/GerudoThiefStage.vgz",
+   "link": 17488,
+   "ragdoll": {
+    "both": 14757,
+    "ragdoll only": 0,
+    "rough twin": 4970
+   },
+   "triangles": 22458
+  },
+  "GerudoTrainingGround": {
+   "airwall": 474,
+   "box": [
+    [
+     -72.0,
+     64.0,
+     -159.0
+    ],
+    [
+     92.0,
+     144.0,
+     49.0
+    ]
+   ],
+   "file": "col/GerudoTrainingGround.vgz",
+   "link": 87063,
+   "ragdoll": {
+    "both": 71159,
+    "ragdoll only": 0,
+    "rough twin": 6750
+   },
+   "triangles": 93813
+  },
+  "GerudoValley_Adult": {
+   "airwall": 6858,
+   "box": [
+    [
+     -101.0,
+     -35.0,
+     -100.0
+    ],
+    [
+     113.0,
+     146.0,
+     132.0
+    ]
+   ],
+   "file": "col/GerudoValley_Adult.vgz",
+   "link": 556212,
+   "ragdoll": {
+    "both": 524641,
+    "ragdoll only": 0,
+    "rough twin": 110883
+   },
+   "triangles": 667095
+  },
+  "GerudoValley_Child": {
+   "airwall": 6749,
+   "box": [
+    [
+     -101.0,
+     -35.0,
+     -100.0
+    ],
+    [
+     113.0,
+     146.0,
+     132.0
+    ]
+   ],
+   "file": "col/GerudoValley_Child.vgz",
+   "link": 545223,
+   "ragdoll": {
+    "both": 513704,
+    "ragdoll only": 0,
+    "rough twin": 109543
+   },
+   "triangles": 654766
+  },
+  "GohmaStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -64.0,
+     27.0,
+     -24.0
+    ],
+    [
+     62.0,
+     80.0,
+     111.0
+    ]
+   ],
+   "file": "col/GohmaStage.vgz",
+   "link": 55718,
+   "ragdoll": {
+    "both": 55159,
+    "ragdoll only": 0,
+    "rough twin": 2987
+   },
+   "triangles": 58705
+  },
+  "GoronCity_Adult": {
+   "airwall": 1919,
+   "box": [
+    [
+     -74.0,
+     83.0,
+     -73.0
+    ],
+    [
+     57.0,
+     159.0,
+     66.0
+    ]
+   ],
+   "file": "col/GoronCity_Adult.vgz",
+   "link": 256347,
+   "ragdoll": {
+    "both": 218550,
+    "ragdoll only": 0,
+    "rough twin": 55485
+   },
+   "triangles": 311832
+  },
+  "GoronCity_Child": {
+   "airwall": 2027,
+   "box": [
+    [
+     -74.0,
+     83.0,
+     -73.0
+    ],
+    [
+     57.0,
+     159.0,
+     66.0
+    ]
+   ],
+   "file": "col/GoronCity_Child.vgz",
+   "link": 258889,
+   "ragdoll": {
+    "both": 221092,
+    "ragdoll only": 0,
+    "rough twin": 55485
+   },
+   "triangles": 314374
+  },
+  "Graveyard_Adult": {
+   "airwall": 1136,
+   "box": [
+    [
+     -84.0,
+     36.0,
+     -39.0
+    ],
+    [
+     168.0,
+     126.0,
+     106.0
+    ]
+   ],
+   "file": "col/Graveyard_Adult.vgz",
+   "link": 355410,
+   "ragdoll": {
+    "both": 326683,
+    "ragdoll only": 0,
+    "rough twin": 48607
+   },
+   "triangles": 404017
+  },
+  "Graveyard_Child": {
+   "airwall": 748,
+   "box": [
+    [
+     -84.0,
+     36.0,
+     -39.0
+    ],
+    [
+     168.0,
+     126.0,
+     106.0
+    ]
+   ],
+   "file": "col/Graveyard_Child.vgz",
+   "link": 257920,
+   "ragdoll": {
+    "both": 235530,
+    "ragdoll only": 0,
+    "rough twin": 36622
+   },
+   "triangles": 294542
+  },
+  "HountedWasteland_Adult": {
+   "airwall": 0,
+   "box": [
+    [
+     -167.0,
+     70.0,
+     -158.0
+    ],
+    [
+     166.0,
+     128.0,
+     105.0
+    ]
+   ],
+   "file": "col/HountedWasteland_Adult.vgz",
+   "link": 87325,
+   "ragdoll": {
+    "both": 86875,
+    "ragdoll only": 0,
+    "rough twin": 1530
+   },
+   "triangles": 88855
+  },
+  "HountedWasteland_Child": {
+   "airwall": 0,
+   "box": [
+    [
+     -167.0,
+     70.0,
+     -158.0
+    ],
+    [
+     166.0,
+     128.0,
+     105.0
+    ]
+   ],
+   "file": "col/HountedWasteland_Child.vgz",
+   "link": 87325,
+   "ragdoll": {
+    "both": 86875,
+    "ragdoll only": 0,
+    "rough twin": 1530
+   },
+   "triangles": 88855
+  },
+  "HyruleCastle": {
+   "airwall": 3020,
+   "box": [
+    [
+     -53.0,
+     85.0,
+     -287.0
+    ],
+    [
+     159.0,
+     203.0,
+     25.0
+    ]
+   ],
+   "file": "col/HyruleCastle.vgz",
+   "link": 385832,
+   "ragdoll": {
+    "both": 358530,
+    "ragdoll only": 0,
+    "rough twin": 14960
+   },
+   "triangles": 400792
+  },
+  "IceCavern": {
+   "airwall": 1631,
+   "box": [
+    [
+     -80.0,
+     68.0,
+     -98.0
+    ],
+    [
+     104.0,
+     147.0,
+     137.0
+    ]
+   ],
+   "file": "col/IceCavern.vgz",
+   "link": 488713,
+   "ragdoll": {
+    "both": 441498,
+    "ragdoll only": 0,
+    "rough twin": 135453
+   },
+   "triangles": 624166
+  },
+  "InsideGanonCastle": {
+   "airwall": 2152,
+   "box": [
+    [
+     -130.0,
+     61.0,
+     -159.0
+    ],
+    [
+     123.0,
+     208.0,
+     143.0
+    ]
+   ],
+   "file": "col/InsideGanonCastle.vgz",
+   "link": 159680,
+   "ragdoll": {
+    "both": 155716,
+    "ragdoll only": 0,
+    "rough twin": 15712
+   },
+   "triangles": 175392
+  },
+  "InsideJabuJabuBelly": {
+   "airwall": 1787,
+   "box": [
+    [
+     -55.0,
+     55.0,
+     -216.0
+    ],
+    [
+     72.0,
+     134.0,
+     29.0
+    ]
+   ],
+   "file": "col/InsideJabuJabuBelly.vgz",
+   "link": 239231,
+   "ragdoll": {
+    "both": 238943,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 239231
+  },
+  "InsideTheDekuTree": {
+   "airwall": 2283,
+   "box": [
+    [
+     -95.0,
+     35.0,
+     -33.0
+    ],
+    [
+     55.0,
+     147.0,
+     102.0
+    ]
+   ],
+   "file": "col/InsideTheDekuTree.vgz",
+   "link": 532789,
+   "ragdoll": {
+    "both": 417210,
+    "ragdoll only": 0,
+    "rough twin": 278640
+   },
+   "triangles": 811429
+  },
+  "IronKnuckleBlackStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -43.0,
+     131.0,
+     -47.0
+    ],
+    [
+     38.0,
+     175.0,
+     18.0
+    ]
+   ],
+   "file": "col/IronKnuckleBlackStage.vgz",
+   "link": 4115,
+   "ragdoll": {
+    "both": 3733,
+    "ragdoll only": 0,
+    "rough twin": 783
+   },
+   "triangles": 4898
+  },
+  "IronKnuckleWhiteStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -82.0,
+     115.0,
+     -5.0
+    ],
+    [
+     -30.0,
+     159.0,
+     82.0
+    ]
+   ],
+   "file": "col/IronKnuckleWhiteStage.vgz",
+   "link": 10020,
+   "ragdoll": {
+    "both": 8948,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 10020
+  },
+  "KakarikoVillage_Adult": {
+   "airwall": 7086,
+   "box": [
+    [
+     -158.0,
+     67.0,
+     -60.0
+    ],
+    [
+     32.0,
+     159.0,
+     138.0
+    ]
+   ],
+   "file": "col/KakarikoVillage_Adult.vgz",
+   "link": 913072,
+   "ragdoll": {
+    "both": 868981,
+    "ragdoll only": 0,
+    "rough twin": 62712
+   },
+   "triangles": 975784
+  },
+  "KakarikoVillage_Adult_Alternative": {
+   "airwall": 6990,
+   "box": [
+    [
+     -158.0,
+     67.0,
+     -60.0
+    ],
+    [
+     32.0,
+     159.0,
+     138.0
+    ]
+   ],
+   "file": "col/KakarikoVillage_Adult_Alternative.vgz",
+   "link": 910736,
+   "ragdoll": {
+    "both": 867235,
+    "ragdoll only": 0,
+    "rough twin": 61820
+   },
+   "triangles": 972556
+  },
+  "KakarikoVillage_Child": {
+   "airwall": 6626,
+   "box": [
+    [
+     -158.0,
+     67.0,
+     -60.0
+    ],
+    [
+     32.0,
+     159.0,
+     138.0
+    ]
+   ],
+   "file": "col/KakarikoVillage_Child.vgz",
+   "link": 896092,
+   "ragdoll": {
+    "both": 853652,
+    "ragdoll only": 0,
+    "rough twin": 60225
+   },
+   "triangles": 956317
+  },
+  "KokiriForest_Adult": {
+   "airwall": 3361,
+   "box": [
+    [
+     -149.0,
+     92.0,
+     -86.0
+    ],
+    [
+     145.0,
+     154.0,
+     73.0
+    ]
+   ],
+   "file": "col/KokiriForest_Adult.vgz",
+   "link": 1266576,
+   "ragdoll": {
+    "both": 1167753,
+    "ragdoll only": 68,
+    "rough twin": 177590
+   },
+   "triangles": 1444166
+  },
+  "KokiriForest_Child": {
+   "airwall": 3403,
+   "box": [
+    [
+     -149.0,
+     92.0,
+     -86.0
+    ],
+    [
+     145.0,
+     154.0,
+     73.0
+    ]
+   ],
+   "file": "col/KokiriForest_Child.vgz",
+   "link": 1264731,
+   "ragdoll": {
+    "both": 1166088,
+    "ragdoll only": 68,
+    "rough twin": 177590
+   },
+   "triangles": 1442321
+  },
+  "LizalfosStage": {
+   "airwall": 306,
+   "box": [
+    [
+     -88.0,
+     33.0,
+     -137.0
+    ],
+    [
+     137.0,
+     137.0,
+     97.0
+    ]
+   ],
+   "file": "col/LizalfosStage.vgz",
+   "link": 124142,
+   "ragdoll": {
+    "both": 122999,
+    "ragdoll only": 0,
+    "rough twin": 5518
+   },
+   "triangles": 129660
+  },
+  "LostWood_Adult": {
+   "airwall": 2990,
+   "box": [
+    [
+     -70.0,
+     71.0,
+     -104.0
+    ],
+    [
+     91.0,
+     137.0,
+     96.0
+    ]
+   ],
+   "file": "col/LostWood_Adult.vgz",
+   "link": 654219,
+   "ragdoll": {
+    "both": 604363,
+    "ragdoll only": 0,
+    "rough twin": 128430
+   },
+   "triangles": 782649
+  },
+  "LostWood_Child": {
+   "airwall": 2966,
+   "box": [
+    [
+     -70.0,
+     71.0,
+     -104.0
+    ],
+    [
+     91.0,
+     137.0,
+     96.0
+    ]
+   ],
+   "file": "col/LostWood_Child.vgz",
+   "link": 654547,
+   "ragdoll": {
+    "both": 604475,
+    "ragdoll only": 0,
+    "rough twin": 128430
+   },
+   "triangles": 782977
+  },
+  "Market_Adult": {
+   "airwall": 1664,
+   "box": [
+    [
+     -43.0,
+     85.0,
+     -73.0
+    ],
+    [
+     171.0,
+     167.0,
+     98.0
+    ]
+   ],
+   "file": "col/Market_Adult.vgz",
+   "link": 220665,
+   "ragdoll": {
+    "both": 192175,
+    "ragdoll only": 0,
+    "rough twin": 105933
+   },
+   "triangles": 326598
+  },
+  "Market_Child": {
+   "airwall": 4649,
+   "box": [
+    [
+     -148.0,
+     83.0,
+     -68.0
+    ],
+    [
+     203.0,
+     167.0,
+     98.0
+    ]
+   ],
+   "file": "col/Market_Child.vgz",
+   "link": 248091,
+   "ragdoll": {
+    "both": 244936,
+    "ragdoll only": 0,
+    "rough twin": 16001
+   },
+   "triangles": 264092
+  },
+  "MegStage": {
+   "airwall": 1916,
+   "box": [
+    [
+     -72.0,
+     72.0,
+     -65.0
+    ],
+    [
+     60.0,
+     154.0,
+     39.0
+    ]
+   ],
+   "file": "col/MegStage.vgz",
+   "link": 55378,
+   "ragdoll": {
+    "both": 50894,
+    "ragdoll only": 0,
+    "rough twin": 7075
+   },
+   "triangles": 62453
+  },
+  "MorphaStage": {
+   "airwall": 248,
+   "box": [
+    [
+     -37.0,
+     111.0,
+     -124.0
+    ],
+    [
+     28.0,
+     163.0,
+     -25.0
+    ]
+   ],
+   "file": "col/MorphaStage.vgz",
+   "link": 24965,
+   "ragdoll": {
+    "both": 24101,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 24965
+  },
+  "NaboruStage": {
+   "airwall": 0,
+   "box": [
+    [
+     -30.0,
+     122.0,
+     -133.0
+    ],
+    [
+     30.0,
+     162.0,
+     -54.0
+    ]
+   ],
+   "file": "col/NaboruStage.vgz",
+   "link": 8200,
+   "ragdoll": {
+    "both": 7664,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 8200
+  },
+  "PhantomGanonStage": {
+   "airwall": 24,
+   "box": [
+    [
+     -30.0,
+     46.0,
+     -90.0
+    ],
+    [
+     30.0,
+     114.0,
+     -28.0
+    ]
+   ],
+   "file": "col/PhantomGanonStage.vgz",
+   "link": 16681,
+   "ragdoll": {
+    "both": 16483,
+    "ragdoll only": 0,
+    "rough twin": 972
+   },
+   "triangles": 17653
+  },
+  "SacredForestMeadow_Adult": {
+   "airwall": 1281,
+   "box": [
+    [
+     -41.0,
+     70.0,
+     -144.0
+    ],
+    [
+     29.0,
+     147.0,
+     109.0
+    ]
+   ],
+   "file": "col/SacredForestMeadow_Adult.vgz",
+   "link": 360674,
+   "ragdoll": {
+    "both": 348901,
+    "ragdoll only": 0,
+    "rough twin": 26342
+   },
+   "triangles": 387016
+  },
+  "SacredForestMeadow_Child": {
+   "airwall": 1363,
+   "box": [
+    [
+     -41.0,
+     70.0,
+     -144.0
+    ],
+    [
+     29.0,
+     147.0,
+     109.0
+    ]
+   ],
+   "file": "col/SacredForestMeadow_Child.vgz",
+   "link": 361752,
+   "ragdoll": {
+    "both": 349547,
+    "ragdoll only": 0,
+    "rough twin": 26342
+   },
+   "triangles": 388094
+  },
+  "ShadowTemple": {
+   "airwall": 3610,
+   "box": [
+    [
+     -245.0,
+     -51.0,
+     -137.0
+    ],
+    [
+     197.0,
+     135.0,
+     131.0
+    ]
+   ],
+   "file": "col/ShadowTemple.vgz",
+   "link": 268990,
+   "ragdoll": {
+    "both": 260778,
+    "ragdoll only": 0,
+    "rough twin": 49993
+   },
+   "triangles": 318983
+  },
+  "SpiritTemple": {
+   "airwall": 1024,
+   "box": [
+    [
+     -79.0,
+     73.0,
+     -208.0
+    ],
+    [
+     79.0,
+     196.0,
+     65.0
+    ]
+   ],
+   "file": "col/SpiritTemple.vgz",
+   "link": 248558,
+   "ragdoll": {
+    "both": 226810,
+    "ragdoll only": 0,
+    "rough twin": 6803
+   },
+   "triangles": 255361
+  },
+  "StalfosStage": {
+   "airwall": 810,
+   "box": [
+    [
+     -214.0,
+     -13.0,
+     -145.0
+    ],
+    [
+     198.0,
+     140.0,
+     35.0
+    ]
+   ],
+   "file": "col/StalfosStage.vgz",
+   "link": 107687,
+   "ragdoll": {
+    "both": 105603,
+    "ragdoll only": 0,
+    "rough twin": 4484
+   },
+   "triangles": 112171
+  },
+  "StalfosWeakStage": {
+   "airwall": 48,
+   "box": [
+    [
+     -20.0,
+     92.0,
+     -76.0
+    ],
+    [
+     20.0,
+     126.0,
+     -19.0
+    ]
+   ],
+   "file": "col/StalfosWeakStage.vgz",
+   "link": 2501,
+   "ragdoll": {
+    "both": 2489,
+    "ragdoll only": 0,
+    "rough twin": 12
+   },
+   "triangles": 2513
+  },
+  "TwinrovaStage": {
+   "airwall": 144,
+   "box": [
+    [
+     -50.0,
+     122.0,
+     -208.0
+    ],
+    [
+     51.0,
+     196.0,
+     -63.0
+    ]
+   ],
+   "file": "col/TwinrovaStage.vgz",
+   "link": 16645,
+   "ragdoll": {
+    "both": 15965,
+    "ragdoll only": 0,
+    "rough twin": 0
+   },
+   "triangles": 16645
+  },
+  "VolvagiaStage": {
+   "airwall": 32,
+   "box": [
+    [
+     -136.0,
+     -13.0,
+     -137.0
+    ],
+    [
+     137.0,
+     159.0,
+     137.0
+    ]
+   ],
+   "file": "col/VolvagiaStage.vgz",
+   "link": 118290,
+   "ragdoll": {
+    "both": 116685,
+    "ragdoll only": 0,
+    "rough twin": 5822
+   },
+   "triangles": 124112
+  },
+  "WaterTemple": {
+   "airwall": 2260,
+   "box": [
+    [
+     -115.0,
+     65.0,
+     -143.0
+    ],
+    [
+     67.0,
+     163.0,
+     65.0
+    ]
+   ],
+   "file": "col/WaterTemple.vgz",
+   "link": 272461,
+   "ragdoll": {
+    "both": 267576,
+    "ragdoll only": 0,
+    "rough twin": 6902
+   },
+   "triangles": 279363
+  },
+  "WolfosStage": {
+   "airwall": 162,
+   "box": [
+    [
+     -262.0,
+     37.0,
+     -262.0
+    ],
+    [
+     262.0,
+     207.0,
+     262.0
+    ]
+   ],
+   "file": "col/WolfosStage.vgz",
+   "link": 354985,
+   "ragdoll": {
+    "both": 349019,
+    "ragdoll only": 0,
+    "rough twin": 9855
+   },
+   "triangles": 364840
+  },
+  "WolfosWhiteStage": {
+   "airwall": 465,
+   "box": [
+    [
+     -76.0,
+     97.0,
+     13.0
+    ],
+    [
+     -17.0,
+     134.0,
+     63.0
+    ]
+   ],
+   "file": "col/WolfosWhiteStage.vgz",
+   "link": 61084,
+   "ragdoll": {
+    "both": 59319,
+    "ragdoll only": 0,
+    "rough twin": 3531
+   },
+   "triangles": 64615
+  },
+  "ZoraDomain_Adult": {
+   "airwall": 2918,
+   "box": [
+    [
+     -44.0,
+     48.0,
+     -66.0
+    ],
+    [
+     137.0,
+     156.0,
+     44.0
+    ]
+   ],
+   "file": "col/ZoraDomain_Adult.vgz",
+   "link": 577117,
+   "ragdoll": {
+    "both": 519702,
+    "ragdoll only": 0,
+    "rough twin": 125984
+   },
+   "triangles": 703101
+  },
+  "ZoraDomain_Adult_Alternative": {
+   "airwall": 2913,
+   "box": [
+    [
+     -44.0,
+     48.0,
+     -66.0
+    ],
+    [
+     137.0,
+     156.0,
+     44.0
+    ]
+   ],
+   "file": "col/ZoraDomain_Adult_Alternative.vgz",
+   "link": 419873,
+   "ragdoll": {
+    "both": 393841,
+    "ragdoll only": 0,
+    "rough twin": 34763
+   },
+   "triangles": 454636
+  },
+  "ZoraDomain_Child": {
+   "airwall": 2783,
+   "box": [
+    [
+     -44.0,
+     48.0,
+     -66.0
+    ],
+    [
+     137.0,
+     156.0,
+     44.0
+    ]
+   ],
+   "file": "col/ZoraDomain_Child.vgz",
+   "link": 418019,
+   "ragdoll": {
+    "both": 392085,
+    "ragdoll only": 0,
+    "rough twin": 34319
+   },
+   "triangles": 452338
+  },
+  "ZoraFountain_Adult": {
+   "airwall": 907,
+   "box": [
+    [
+     -80.0,
+     59.0,
+     -104.0
+    ],
+    [
+     108.0,
+     156.0,
+     140.0
+    ]
+   ],
+   "file": "col/ZoraFountain_Adult.vgz",
+   "link": 434162,
+   "ragdoll": {
+    "both": 406463,
+    "ragdoll only": 0,
+    "rough twin": 68250
+   },
+   "triangles": 502412
+  },
+  "ZoraFountain_Child": {
+   "airwall": 1278,
+   "box": [
+    [
+     -80.0,
+     59.0,
+     -103.0
+    ],
+    [
+     108.0,
+     156.0,
+     140.0
+    ]
+   ],
+   "file": "col/ZoraFountain_Child.vgz",
+   "link": 458166,
+   "ragdoll": {
+    "both": 426109,
+    "ragdoll only": 0,
+    "rough twin": 44412
+   },
+   "triangles": 502578
+  },
+  "ZoraRiver_Adult": {
+   "airwall": 3974,
+   "box": [
+    [
+     -152.0,
+     62.0,
+     -86.0
+    ],
+    [
+     175.0,
+     182.0,
+     57.0
+    ]
+   ],
+   "file": "col/ZoraRiver_Adult.vgz",
+   "link": 689198,
+   "ragdoll": {
+    "both": 662494,
+    "ragdoll only": 0,
+    "rough twin": 64590
+   },
+   "triangles": 753788
+  },
+  "ZoraRiver_Child": {
+   "airwall": 4094,
+   "box": [
+    [
+     -152.0,
+     62.0,
+     -86.0
+    ],
+    [
+     175.0,
+     182.0,
+     57.0
+    ]
+   ],
+   "file": "col/ZoraRiver_Child.vgz",
+   "link": 685649,
+   "ragdoll": {
+    "both": 659558,
+    "ragdoll only": 0,
+    "rough twin": 62568
+   },
+   "triangles": 748217
+  }
+ },
+ "maps": {
+  "BarinadeStage": {
+   "aabb": [
+    [
+     14.0,
+     99.0,
+     -130.0
+    ],
+    [
+     59.0,
+     121.0,
+     -43.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "BarinadeStage",
+   "box": [
+    [
+     14,
+     99,
+     -130
+    ],
+    [
+     60,
+     122,
+     -42
+    ]
+   ],
+   "cells": 9828,
+   "contact": [],
+   "file": "maps/BarinadeStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 2642,
+    "holds": 1510
+   }
+  },
+  "BigOctoStage": {
+   "aabb": [
+    [
+     -50.0,
+     79.0,
+     -110.0
+    ],
+    [
+     -15.0,
+     112.0,
+     -76.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "BigOctoStage",
+   "box": [
+    [
+     -50,
+     79,
+     -110
+    ],
+    [
+     -14,
+     113,
+     -75
+    ]
+   ],
+   "cells": 4252,
+   "contact": [],
+   "file": "maps/BigOctoStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 710,
+    "holds": 514
+   }
+  },
+  "BongoBongoStage": {
+   "aabb": [
+    [
+     -227.0,
+     -39.0,
+     -59.0
+    ],
+    [
+     -51.0,
+     56.0,
+     118.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "BongoBongoStage",
+   "box": [
+    [
+     -227,
+     -39,
+     -59
+    ],
+    [
+     -50,
+     57,
+     119
+    ]
+   ],
+   "cells": 106641,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      95.0,
+      12.347,
+      95.0
+     ],
+     "shape": "box",
+     "t": [
+      -139.037,
+      -18.67,
+      29.99
+     ]
+    }
+   ],
+   "file": "maps/BongoBongoStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 26559,
+    "holds": 31474
+   }
+  },
+  "BossRushIntervalRoom": {
+   "aabb": [
+    [
+     -51.0,
+     -1.0,
+     -87.0
+    ],
+    [
+     53.0,
+     43.0,
+     58.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "BossRushIntervalRoom",
+   "box": [
+    [
+     -51,
+     -1,
+     -87
+    ],
+    [
+     54,
+     44,
+     59
+    ]
+   ],
+   "cells": 37619,
+   "contact": [],
+   "file": "maps/BossRushIntervalRoom.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 19011,
+    "holds": 5310
+   }
+  },
+  "BottomOfTheWell": {
+   "aabb": [
+    [
+     -63.0,
+     84.0,
+     -112.0
+    ],
+    [
+     34.0,
+     110.0,
+     61.0
+    ]
+   ],
+   "area": "BottomOfTheWell",
+   "base": "BottomOfTheWell",
+   "box": [
+    [
+     -63,
+     84,
+     -112
+    ],
+    [
+     35,
+     111,
+     62
+    ]
+   ],
+   "cells": 25591,
+   "contact": [],
+   "file": "maps/BottomOfTheWell.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 7545,
+    "holds": 5656
+   }
+  },
+  "CrumblingGanonCastle": {
+   "aabb": [
+    [
+     -98.0,
+     152.0,
+     -42.0
+    ],
+    [
+     43.0,
+     245.0,
+     46.0
+    ]
+   ],
+   "area": "GanonCastle",
+   "base": "CrumblingGanonCastle",
+   "box": [
+    [
+     -98,
+     152,
+     -42
+    ],
+    [
+     44,
+     246,
+     47
+    ]
+   ],
+   "cells": 58286,
+   "contact": [
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      24.74,
+      49.454
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      230.186,
+      0.0
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      23.386,
+      19.216,
+      49.454
+     ],
+     "shape": "box",
+     "t": [
+      -36.8,
+      223.767,
+      0.0
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      16.796,
+      49.454
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      198.317,
+      0.0
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      4.435,
+      49.454
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      189.581,
+      0.0
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      4.783,
+      49.454
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      180.115,
+      0.0
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      39.019,
+      49.454
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      132.992,
+      0.0
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      34.789,
+      48.73
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      120.268,
+      -28.38
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      34.404,
+      29.674,
+      41.82
+     ],
+     "shape": "box",
+     "t": [
+      -27.445,
+      191.534,
+      -8.529
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      53.025,
+      5.112,
+      29.951
+     ],
+     "shape": "box",
+     "t": [
+      -8.824,
+      188.157,
+      20.058
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      27.075,
+      2.799,
+      10.365
+     ],
+     "shape": "box",
+     "t": [
+      1.636,
+      198.769,
+      39.648
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      4.492,
+      48.31,
+      28.768
+     ],
+     "shape": "box",
+     "t": [
+      0.032,
+      99.429,
+      -0.518
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      30.164,
+      2.796,
+      13.745
+     ],
+     "shape": "box",
+     "t": [
+      11.752,
+      202.067,
+      -7.335
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "CrumblingGanonCastle_Prefab_3d44",
+     "r": [
+      0.0,
+      -0.83557,
+      0.0
+     ],
+     "s": [
+      2.985,
+      9.672,
+      6.673
+     ],
+     "shape": "box",
+     "t": [
+      -23.374,
+      188.323,
+      -19.826
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "CrumblingGanonCastle_Prefab_633f",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      100.0,
+      94.753,
+      100.0
+     ],
+     "shape": "box",
+     "t": [
+      -2.388,
+      -27.872,
+      -5.009
+     ]
+    }
+   ],
+   "file": "maps/CrumblingGanonCastle.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 20514,
+    "holds": 31743
+   }
+  },
+  "DarkLinkStage": {
+   "aabb": [
+    [
+     -105.0,
+     124.0,
+     -89.0
+    ],
+    [
+     -52.0,
+     140.0,
+     -35.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "DarkLinkStage",
+   "box": [
+    [
+     -105,
+     124,
+     -89
+    ],
+    [
+     -51,
+     141,
+     -34
+    ]
+   ],
+   "cells": 10599,
+   "contact": [],
+   "file": "maps/DarkLinkStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 3432,
+    "holds": 3047
+   }
+  },
+  "DeadHandStage": {
+   "aabb": [
+    [
+     -10.0,
+     92.0,
+     -112.0
+    ],
+    [
+     14.0,
+     110.0,
+     -64.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "DeadHandStage",
+   "box": [
+    [
+     -10,
+     92,
+     -112
+    ],
+    [
+     15,
+     111,
+     -63
+    ]
+   ],
+   "cells": 3991,
+   "contact": [],
+   "file": "maps/DeadHandStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1114,
+    "holds": 704
+   }
+  },
+  "DeathMountainCrater_Adult": {
+   "aabb": [
+    [
+     -105.0,
+     67.0,
+     -54.0
+    ],
+    [
+     48.0,
+     156.0,
+     73.0
+    ]
+   ],
+   "area": "DeathMountainCrater",
+   "base": "DeathMountainCrater_Adult",
+   "box": [
+    [
+     -105,
+     67,
+     -54
+    ],
+    [
+     49,
+     157,
+     74
+    ]
+   ],
+   "cells": 65791,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -1.309,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -50.847,
+      112.486,
+      -0.197
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.61087,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -17.381,
+      120.233,
+      52.577
+     ]
+    }
+   ],
+   "file": "maps/DeathMountainCrater_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27661,
+    "holds": 50085
+   }
+  },
+  "DeathMountainCrater_Child": {
+   "aabb": [
+    [
+     -105.0,
+     67.0,
+     -54.0
+    ],
+    [
+     48.0,
+     156.0,
+     73.0
+    ]
+   ],
+   "area": "DeathMountainCrater",
+   "base": "DeathMountainCrater_Child",
+   "box": [
+    [
+     -105,
+     67,
+     -54
+    ],
+    [
+     49,
+     157,
+     74
+    ]
+   ],
+   "cells": 65791,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.61087,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -17.381,
+      120.233,
+      52.577
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -1.309,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -50.847,
+      112.486,
+      -0.197
+     ]
+    }
+   ],
+   "file": "maps/DeathMountainCrater_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27772,
+    "holds": 50343
+   }
+  },
+  "DeathMountainTrail_Adult": {
+   "aabb": [
+    [
+     -78.0,
+     58.0,
+     -221.0
+    ],
+    [
+     55.0,
+     233.0,
+     108.0
+    ]
+   ],
+   "area": "DeathMountainTrail",
+   "base": "DeathMountainTrail_Adult",
+   "box": [
+    [
+     -78,
+     58,
+     -221
+    ],
+    [
+     56,
+     234,
+     109
+    ]
+   ],
+   "cells": 71277,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.20892,
+      0.0
+     ],
+     "s": [
+      22.0,
+      21.621,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      24.7,
+      113.769,
+      -38.483
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -2.70526,
+      -0.27925,
+      0.0
+     ],
+     "s": [
+      20.0,
+      30.0,
+      35.0
+     ],
+     "shape": "box",
+     "t": [
+      -37.623,
+      158.597,
+      -83.797
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      15.0,
+      25.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      -41.604,
+      126.618,
+      -72.211
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      15.0,
+      25.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      -41.604,
+      134.313,
+      -72.211
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.47124,
+      0.0
+     ],
+     "s": [
+      25.0,
+      30.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      29.063,
+      113.801,
+      -18.393
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.17453,
+      0.0
+     ],
+     "s": [
+      15.0,
+      15.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      -4.302,
+      95.813,
+      64.193
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.05498,
+      -0.08594,
+      0.01519
+     ],
+     "s": [
+      25.0,
+      19.4,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      18.12,
+      118.936,
+      12.511
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.05498,
+      -0.08594,
+      0.01519
+     ],
+     "s": [
+      25.0,
+      19.4,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      19.006,
+      79.783,
+      9.123
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.03988,
+      -0.53877,
+      -0.05232
+     ],
+     "s": [
+      18.0,
+      30.0,
+      18.0
+     ],
+     "shape": "box",
+     "t": [
+      8.555,
+      116.372,
+      38.109
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -2.70526,
+      -0.27925,
+      0.0
+     ],
+     "s": [
+      20.0,
+      30.0,
+      35.0
+     ],
+     "shape": "box",
+     "t": [
+      -36.05,
+      137.068,
+      -89.284
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      2.5,
+      5.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      0.102,
+      96.313,
+      -15.607
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -2.70526,
+      -0.17453,
+      -0.08794
+     ],
+     "s": [
+      15.0,
+      35.0,
+      50.0
+     ],
+     "shape": "box",
+     "t": [
+      16.437,
+      170.617,
+      -86.704
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.2618,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -1.649,
+      115.372,
+      -26.118
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.13792,
+      -0.40719,
+      -0.02309
+     ],
+     "s": [
+      15.0,
+      20.0,
+      10.0
+     ],
+     "shape": "box",
+     "t": [
+      -25.886,
+      180.719,
+      -121.056
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.13792,
+      -0.40719,
+      -0.02309
+     ],
+     "s": [
+      15.0,
+      20.0,
+      10.0
+     ],
+     "shape": "box",
+     "t": [
+      -36.52,
+      136.418,
+      -98.779
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      15.0,
+      15.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      12.718,
+      96.313,
+      5.868
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      -1e-05
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -13.4,
+      135.4,
+      -6.8
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.03988,
+      -0.53877,
+      -0.05232
+     ],
+     "s": [
+      18.0,
+      30.0,
+      18.0
+     ],
+     "shape": "box",
+     "t": [
+      8.555,
+      90.419,
+      35.839
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -2.70526,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      20.0,
+      25.0,
+      35.0
+     ],
+     "shape": "box",
+     "t": [
+      -30.281,
+      146.57,
+      -104.536
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.13792,
+      -0.11624,
+      -0.02309
+     ],
+     "s": [
+      1.0,
+      25.038,
+      15.0
+     ],
+     "shape": "box",
+     "t": [
+      -40.529,
+      212.426,
+      -125.659
+     ]
+    }
+   ],
+   "file": "maps/DeathMountainTrail_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 25356,
+    "holds": 62247
+   }
+  },
+  "DeathMountainTrail_Child": {
+   "aabb": [
+    [
+     -78.0,
+     58.0,
+     -221.0
+    ],
+    [
+     55.0,
+     233.0,
+     108.0
+    ]
+   ],
+   "area": "DeathMountainTrail",
+   "base": "DeathMountainTrail_Child",
+   "box": [
+    [
+     -78,
+     58,
+     -221
+    ],
+    [
+     56,
+     234,
+     109
+    ]
+   ],
+   "cells": 71279,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.05498,
+      -0.08594,
+      0.01519
+     ],
+     "s": [
+      25.0,
+      19.4,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      18.12,
+      118.936,
+      12.511
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.47124,
+      0.0
+     ],
+     "s": [
+      25.0,
+      30.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      29.063,
+      113.801,
+      -18.393
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.03988,
+      -0.53877,
+      -0.05232
+     ],
+     "s": [
+      18.0,
+      30.0,
+      18.0
+     ],
+     "shape": "box",
+     "t": [
+      8.555,
+      116.372,
+      38.109
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.2618,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -1.649,
+      115.372,
+      -26.118
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      15.0,
+      25.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      -41.604,
+      126.618,
+      -72.211
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      15.0,
+      25.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      -41.604,
+      134.313,
+      -72.211
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.20892,
+      0.0
+     ],
+     "s": [
+      22.0,
+      21.621,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      24.7,
+      113.769,
+      -38.483
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      15.0,
+      15.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      12.718,
+      96.313,
+      5.868
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -2.70526,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      20.0,
+      25.0,
+      35.0
+     ],
+     "shape": "box",
+     "t": [
+      -30.281,
+      146.57,
+      -104.536
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.13792,
+      -0.11624,
+      -0.02309
+     ],
+     "s": [
+      1.0,
+      25.038,
+      15.0
+     ],
+     "shape": "box",
+     "t": [
+      -40.529,
+      212.426,
+      -125.659
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.03988,
+      -0.53877,
+      -0.05232
+     ],
+     "s": [
+      18.0,
+      30.0,
+      18.0
+     ],
+     "shape": "box",
+     "t": [
+      8.555,
+      90.419,
+      35.839
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      -1e-05
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -13.4,
+      135.4,
+      -6.8
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -2.70526,
+      -0.27925,
+      0.0
+     ],
+     "s": [
+      20.0,
+      30.0,
+      35.0
+     ],
+     "shape": "box",
+     "t": [
+      -37.623,
+      158.597,
+      -83.797
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDownMountian_3b16",
+     "r": [
+      -3.13792,
+      -0.40719,
+      -0.02309
+     ],
+     "s": [
+      15.0,
+      20.0,
+      10.0
+     ],
+     "shape": "box",
+     "t": [
+      -25.886,
+      180.719,
+      -121.056
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.13792,
+      -0.40719,
+      -0.02309
+     ],
+     "s": [
+      15.0,
+      20.0,
+      10.0
+     ],
+     "shape": "box",
+     "t": [
+      -36.52,
+      136.418,
+      -98.779
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.05498,
+      -0.08594,
+      0.01519
+     ],
+     "s": [
+      25.0,
+      19.4,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      19.006,
+      79.783,
+      9.123
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.17453,
+      0.0
+     ],
+     "s": [
+      15.0,
+      15.0,
+      25.0
+     ],
+     "shape": "box",
+     "t": [
+      -4.302,
+      95.813,
+      64.193
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -2.70526,
+      -0.17453,
+      -0.08794
+     ],
+     "s": [
+      15.0,
+      35.0,
+      50.0
+     ],
+     "shape": "box",
+     "t": [
+      16.437,
+      170.617,
+      -86.704
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      2.5,
+      5.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      0.102,
+      96.313,
+      -15.607
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -2.70526,
+      -0.27925,
+      0.0
+     ],
+     "s": [
+      20.0,
+      30.0,
+      35.0
+     ],
+     "shape": "box",
+     "t": [
+      -36.05,
+      137.068,
+      -89.284
+     ]
+    }
+   ],
+   "file": "maps/DeathMountainTrail_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 25148,
+    "holds": 60978
+   }
+  },
+  "DesertColossus_Adult": {
+   "aabb": [
+    [
+     -208.0,
+     77.0,
+     -106.0
+    ],
+    [
+     60.0,
+     182.0,
+     101.0
+    ]
+   ],
+   "area": "DesertColossus",
+   "base": "DesertColossus_Adult",
+   "box": [
+    [
+     -208,
+     77,
+     -106
+    ],
+    [
+     61,
+     183,
+     102
+    ]
+   ],
+   "cells": 83612,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      -0.9608,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -115.5,
+      89.262,
+      -26.733
+     ]
+    }
+   ],
+   "file": "maps/DesertColossus_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27255,
+    "holds": 142557
+   }
+  },
+  "DesertColossus_Child": {
+   "aabb": [
+    [
+     -208.0,
+     77.0,
+     -106.0
+    ],
+    [
+     60.0,
+     182.0,
+     101.0
+    ]
+   ],
+   "area": "DesertColossus",
+   "base": "DesertColossus_Child",
+   "box": [
+    [
+     -208,
+     77,
+     -106
+    ],
+    [
+     61,
+     183,
+     102
+    ]
+   ],
+   "cells": 83612,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      -0.9608,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -115.5,
+      89.262,
+      -26.733
+     ]
+    }
+   ],
+   "file": "maps/DesertColossus_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27253,
+    "holds": 142559
+   }
+  },
+  "DinolfosStage": {
+   "aabb": [
+    [
+     -70.0,
+     70.0,
+     -5.0
+    ],
+    [
+     -47.0,
+     80.0,
+     10.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "DinolfosStage",
+   "box": [
+    [
+     -70,
+     70,
+     -5
+    ],
+    [
+     -46,
+     81,
+     11
+    ]
+   ],
+   "cells": 1248,
+   "contact": [],
+   "file": "maps/DinolfosStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 372,
+    "holds": 211
+   }
+  },
+  "DodongoCavern": {
+   "aabb": [
+    [
+     -61.0,
+     73.0,
+     -113.0
+    ],
+    [
+     124.0,
+     124.0,
+     71.0
+    ]
+   ],
+   "area": "DodongoCavern",
+   "base": "DodongoCavern",
+   "box": [
+    [
+     -61,
+     73,
+     -113
+    ],
+    [
+     125,
+     125,
+     72
+    ]
+   ],
+   "cells": 66673,
+   "contact": [],
+   "file": "maps/DodongoCavern.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27550,
+    "holds": 39831
+   }
+  },
+  "DodongoStage": {
+   "aabb": [
+    [
+     -76.0,
+     64.0,
+     -125.0
+    ],
+    [
+     124.0,
+     105.0,
+     84.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "DodongoStage",
+   "box": [
+    [
+     -76,
+     64,
+     -125
+    ],
+    [
+     125,
+     106,
+     85
+    ]
+   ],
+   "cells": 72607,
+   "contact": [],
+   "file": "maps/DodongoStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 37065,
+    "holds": 3897
+   }
+  },
+  "EnemyMuseum": {
+   "aabb": [
+    [
+     -85.0,
+     -1.0,
+     -84.0
+    ],
+    [
+     83.0,
+     12.0,
+     84.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "EnemyMuseum",
+   "box": [
+    [
+     -85,
+     -1,
+     -84
+    ],
+    [
+     84,
+     13,
+     85
+    ]
+   ],
+   "cells": 43612,
+   "contact": [],
+   "file": "maps/EnemyMuseum.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 31218,
+    "holds": 32212
+   }
+  },
+  "FinalBattleField": {
+   "aabb": [
+    [
+     -29.0,
+     82.0,
+     -30.0
+    ],
+    [
+     51.0,
+     106.0,
+     27.0
+    ]
+   ],
+   "area": "GanonCastle",
+   "base": "FinalBattleField",
+   "box": [
+    [
+     -29,
+     82,
+     -30
+    ],
+    [
+     52,
+     107,
+     28
+    ]
+   ],
+   "cells": 10401,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      75.0,
+      22.766,
+      75.0
+     ],
+     "shape": "box",
+     "t": [
+      0.854,
+      97.089,
+      1.621
+     ]
+    }
+   ],
+   "file": "maps/FinalBattleField.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 5115,
+    "holds": 2294
+   }
+  },
+  "FireTemple": {
+   "aabb": [
+    [
+     -120.0,
+     97.0,
+     -52.0
+    ],
+    [
+     117.0,
+     208.0,
+     53.0
+    ]
+   ],
+   "area": "FireTemple",
+   "base": "FireTemple",
+   "box": [
+    [
+     -120,
+     97,
+     -52
+    ],
+    [
+     118,
+     209,
+     54
+    ]
+   ],
+   "cells": 137598,
+   "contact": [],
+   "file": "maps/FireTemple.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 41723,
+    "holds": 71658
+   }
+  },
+  "FlareDancerStage": {
+   "aabb": [
+    [
+     -85.0,
+     146.0,
+     -11.0
+    ],
+    [
+     -60.0,
+     194.0,
+     19.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "FlareDancerStage",
+   "box": [
+    [
+     -85,
+     146,
+     -11
+    ],
+    [
+     -59,
+     195,
+     20
+    ]
+   ],
+   "cells": 6106,
+   "contact": [],
+   "file": "maps/FlareDancerStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1251,
+    "holds": 1029
+   }
+  },
+  "ForestTemple": {
+   "aabb": [
+    [
+     -80.0,
+     59.0,
+     -78.0
+    ],
+    [
+     67.0,
+     141.0,
+     117.0
+    ]
+   ],
+   "area": "ForestTemple",
+   "base": "ForestTemple",
+   "box": [
+    [
+     -80,
+     59,
+     -78
+    ],
+    [
+     67,
+     142,
+     94
+    ]
+   ],
+   "cells": 86718,
+   "contact": [],
+   "file": "maps/ForestTemple.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 21291,
+    "holds": 26536
+   }
+  },
+  "GanonCastle": {
+   "aabb": [
+    [
+     10.0,
+     -15.0,
+     178.0
+    ],
+    [
+     170.0,
+     135.0,
+     389.0
+    ]
+   ],
+   "area": "GanonCastle",
+   "base": "GanonCastle",
+   "box": [
+    [
+     10,
+     -15,
+     178
+    ],
+    [
+     171,
+     136,
+     390
+    ]
+   ],
+   "cells": 78879,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_GanonCastle_b627",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      400.0,
+      376.99,
+      400.0
+     ],
+     "shape": "box",
+     "t": [
+      42.975,
+      -700.49,
+      -55.023
+     ]
+    }
+   ],
+   "file": "maps/GanonCastle.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 17593,
+    "holds": 55535
+   }
+  },
+  "GanonStage": {
+   "aabb": [
+    [
+     -97.0,
+     70.0,
+     -94.0
+    ],
+    [
+     79.0,
+     116.0,
+     97.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "GanonStage",
+   "box": [
+    [
+     -97,
+     70,
+     -94
+    ],
+    [
+     80,
+     117,
+     98
+    ]
+   ],
+   "cells": 127429,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      75.0,
+      22.766,
+      75.0
+     ],
+     "shape": "box",
+     "t": [
+      0.854,
+      97.089,
+      1.621
+     ]
+    }
+   ],
+   "file": "maps/GanonStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 16854,
+    "holds": 13663
+   }
+  },
+  "GanondorfStage": {
+   "aabb": [
+    [
+     -29.0,
+     156.0,
+     -52.0
+    ],
+    [
+     16.0,
+     195.0,
+     11.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "GanondorfStage",
+   "box": [
+    [
+     -29,
+     156,
+     -52
+    ],
+    [
+     17,
+     196,
+     12
+    ]
+   ],
+   "cells": 15948,
+   "contact": [],
+   "file": "maps/GanondorfStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 3088,
+    "holds": 4437
+   }
+  },
+  "GerudoFortress_Adult": {
+   "aabb": [
+    [
+     -81.0,
+     89.0,
+     -149.0
+    ],
+    [
+     221.0,
+     149.0,
+     96.0
+    ]
+   ],
+   "area": "GerudoFortress",
+   "base": "GerudoFortress_Adult",
+   "box": [
+    [
+     -81,
+     89,
+     -149
+    ],
+    [
+     222,
+     150,
+     97
+    ]
+   ],
+   "cells": 91192,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      33.154,
+      107.74,
+      -67.797
+     ]
+    }
+   ],
+   "file": "maps/GerudoFortress_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 35277,
+    "holds": 213714
+   }
+  },
+  "GerudoThiefStage": {
+   "aabb": [
+    [
+     -500.0,
+     87.0,
+     -500.0
+    ],
+    [
+     499.0,
+     182.0,
+     499.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "GerudoThiefStage",
+   "box": [
+    [
+     -500,
+     87,
+     -500
+    ],
+    [
+     500,
+     183,
+     500
+    ]
+   ],
+   "cells": 1228910,
+   "contact": [],
+   "file": "maps/GerudoThiefStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 24024,
+    "holds": 43850
+   }
+  },
+  "GerudoTrainingGround": {
+   "aabb": [
+    [
+     -60.0,
+     76.0,
+     -147.0
+    ],
+    [
+     79.0,
+     131.0,
+     26.0
+    ]
+   ],
+   "area": "GerudoTrainingGround",
+   "base": "GerudoTrainingGround",
+   "box": [
+    [
+     -60,
+     76,
+     -147
+    ],
+    [
+     80,
+     115,
+     37
+    ]
+   ],
+   "cells": 43833,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      5.0,
+      8.0,
+      5.0
+     ],
+     "shape": "box",
+     "t": [
+      -36.541,
+      93.0,
+      -26.467
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      10.444,
+      8.0,
+      19.169
+     ],
+     "shape": "box",
+     "t": [
+      -47.52,
+      93.0,
+      -47.342
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      5.0,
+      8.0,
+      5.0
+     ],
+     "shape": "box",
+     "t": [
+      -57.796,
+      93.0,
+      -26.467
+     ]
+    }
+   ],
+   "file": "maps/GerudoTrainingGround.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10487,
+    "holds": 15758
+   }
+  },
+  "GerudoValley_Adult": {
+   "aabb": [
+    [
+     -89.0,
+     -23.0,
+     -88.0
+    ],
+    [
+     100.0,
+     133.0,
+     119.0
+    ]
+   ],
+   "area": "GerudoValley",
+   "base": "GerudoValley_Adult",
+   "box": [
+    [
+     -89,
+     -23,
+     -88
+    ],
+    [
+     101,
+     134,
+     120
+    ]
+   ],
+   "cells": 97668,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      11.452,
+      85.8,
+      36.453
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -45.273,
+      96.408,
+      -29.029
+     ]
+    }
+   ],
+   "file": "maps/GerudoValley_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 20292,
+    "holds": 190575
+   }
+  },
+  "GerudoValley_Child": {
+   "aabb": [
+    [
+     -89.0,
+     -23.0,
+     -88.0
+    ],
+    [
+     100.0,
+     133.0,
+     119.0
+    ]
+   ],
+   "area": "GerudoValley",
+   "base": "GerudoValley_Child",
+   "box": [
+    [
+     -89,
+     -23,
+     -88
+    ],
+    [
+     101,
+     134,
+     120
+    ]
+   ],
+   "cells": 96972,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      11.452,
+      85.8,
+      36.453
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -45.273,
+      96.408,
+      -29.029
+     ]
+    }
+   ],
+   "file": "maps/GerudoValley_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 19935,
+    "holds": 193381
+   }
+  },
+  "GohmaStage": {
+   "aabb": [
+    [
+     -52.0,
+     39.0,
+     -12.0
+    ],
+    [
+     49.0,
+     67.0,
+     98.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "GohmaStage",
+   "box": [
+    [
+     -52,
+     39,
+     -12
+    ],
+    [
+     50,
+     68,
+     99
+    ]
+   ],
+   "cells": 16966,
+   "contact": [],
+   "file": "maps/GohmaStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 3594,
+    "holds": 4121
+   }
+  },
+  "GoronCity_Adult": {
+   "aabb": [
+    [
+     -62.0,
+     95.0,
+     -61.0
+    ],
+    [
+     44.0,
+     146.0,
+     53.0
+    ]
+   ],
+   "area": "GoronCity",
+   "base": "GoronCity_Adult",
+   "box": [
+    [
+     -62,
+     95,
+     -61
+    ],
+    [
+     45,
+     147,
+     54
+    ]
+   ],
+   "cells": 23906,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.0,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -42.203,
+      107.892,
+      29.29
+     ]
+    }
+   ],
+   "file": "maps/GoronCity_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 9324,
+    "holds": 8865
+   }
+  },
+  "GoronCity_Child": {
+   "aabb": [
+    [
+     -62.0,
+     95.0,
+     -61.0
+    ],
+    [
+     44.0,
+     146.0,
+     53.0
+    ]
+   ],
+   "area": "GoronCity",
+   "base": "GoronCity_Child",
+   "box": [
+    [
+     -62,
+     95,
+     -61
+    ],
+    [
+     45,
+     147,
+     54
+    ]
+   ],
+   "cells": 23909,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.0,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -42.203,
+      107.892,
+      29.29
+     ]
+    }
+   ],
+   "file": "maps/GoronCity_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 9380,
+    "holds": 8885
+   }
+  },
+  "Graveyard_Adult": {
+   "aabb": [
+    [
+     -72.0,
+     51.0,
+     -20.0
+    ],
+    [
+     155.0,
+     113.0,
+     88.0
+    ]
+   ],
+   "area": "Graveyard",
+   "base": "Graveyard_Adult",
+   "box": [
+    [
+     -72,
+     48,
+     -27
+    ],
+    [
+     156,
+     114,
+     94
+    ]
+   ],
+   "cells": 45199,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      1.5708,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -4.016,
+      98.212,
+      -10.923
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      15.429,
+      10.275,
+      14.853
+     ],
+     "shape": "box",
+     "t": [
+      21.151,
+      70.732,
+      73.636
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      4.0,
+      96.7,
+      5.75
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      1.5708,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      21.47,
+      98.2,
+      11.2
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      1.5708,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      21.394,
+      98.26,
+      23.154
+     ]
+    }
+   ],
+   "file": "maps/Graveyard_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 15864,
+    "holds": 28271
+   }
+  },
+  "Graveyard_Child": {
+   "aabb": [
+    [
+     -72.0,
+     83.0,
+     -20.0
+    ],
+    [
+     155.0,
+     113.0,
+     43.0
+    ]
+   ],
+   "area": "Graveyard",
+   "base": "Graveyard_Child",
+   "box": [
+    [
+     -72,
+     48,
+     -27
+    ],
+    [
+     156,
+     114,
+     94
+    ]
+   ],
+   "cells": 21580,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      1.5708,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      21.47,
+      98.2,
+      11.2
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      4.0,
+      96.7,
+      5.75
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      1.5708,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      21.394,
+      98.26,
+      23.154
+     ]
+    }
+   ],
+   "file": "maps/Graveyard_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 7444,
+    "holds": 17085
+   }
+  },
+  "HountedWasteland_Adult": {
+   "aabb": [
+    [
+     -155.0,
+     82.0,
+     -146.0
+    ],
+    [
+     153.0,
+     115.0,
+     92.0
+    ]
+   ],
+   "area": "HountedWasteland",
+   "base": "HountedWasteland_Adult",
+   "box": [
+    [
+     -155,
+     82,
+     -146
+    ],
+    [
+     154,
+     116,
+     93
+    ]
+   ],
+   "cells": 50482,
+   "contact": [],
+   "file": "maps/HountedWasteland_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 35806,
+    "holds": 59472
+   }
+  },
+  "HountedWasteland_Child": {
+   "aabb": [
+    [
+     -155.0,
+     82.0,
+     -146.0
+    ],
+    [
+     153.0,
+     115.0,
+     92.0
+    ]
+   ],
+   "area": "HountedWasteland",
+   "base": "HountedWasteland_Child",
+   "box": [
+    [
+     -155,
+     82,
+     -146
+    ],
+    [
+     154,
+     116,
+     93
+    ]
+   ],
+   "cells": 50475,
+   "contact": [],
+   "file": "maps/HountedWasteland_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 35806,
+    "holds": 59472
+   }
+  },
+  "HyruleCastle": {
+   "aabb": [
+    [
+     -41.0,
+     97.0,
+     -275.0
+    ],
+    [
+     146.0,
+     190.0,
+     12.0
+    ]
+   ],
+   "area": "HyruleCastle",
+   "base": "HyruleCastle",
+   "box": [
+    [
+     -41,
+     97,
+     -275
+    ],
+    [
+     147,
+     191,
+     13
+    ]
+   ],
+   "cells": 73618,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -1.04484,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      35.851,
+      112.513,
+      -106.245
+     ]
+    }
+   ],
+   "file": "maps/HyruleCastle.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 22414,
+    "holds": 61998
+   }
+  },
+  "IceCavern": {
+   "aabb": [
+    [
+     -68.0,
+     80.0,
+     -86.0
+    ],
+    [
+     91.0,
+     134.0,
+     124.0
+    ]
+   ],
+   "area": "IceCavern",
+   "base": "IceCavern",
+   "box": [
+    [
+     -68,
+     80,
+     -86
+    ],
+    [
+     92,
+     135,
+     125
+    ]
+   ],
+   "cells": 42108,
+   "contact": [],
+   "file": "maps/IceCavern.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 13827,
+    "holds": 16285
+   }
+  },
+  "InsideGanonCastle": {
+   "aabb": [
+    [
+     -118.0,
+     73.0,
+     -147.0
+    ],
+    [
+     110.0,
+     195.0,
+     130.0
+    ]
+   ],
+   "area": "InsideGanonCastle",
+   "base": "InsideGanonCastle",
+   "box": [
+    [
+     -118,
+     73,
+     -147
+    ],
+    [
+     111,
+     196,
+     131
+    ]
+   ],
+   "cells": 129148,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.5236,
+      0.0
+     ],
+     "s": [
+      20.649,
+      10.375,
+      49.147
+     ],
+     "shape": "box",
+     "t": [
+      38.771,
+      97.058,
+      -88.13
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -1.0472,
+      0.0
+     ],
+     "s": [
+      15.0,
+      11.273,
+      7.916
+     ],
+     "shape": "box",
+     "t": [
+      37.326,
+      91.252,
+      44.641
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      12.5,
+      10.097,
+      12.5
+     ],
+     "shape": "box",
+     "t": [
+      78.761,
+      91.474,
+      -20.975
+     ]
+    }
+   ],
+   "file": "maps/InsideGanonCastle.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 31373,
+    "holds": 35533
+   }
+  },
+  "InsideJabuJabuBelly": {
+   "aabb": [
+    [
+     -43.0,
+     67.0,
+     -204.0
+    ],
+    [
+     59.0,
+     121.0,
+     16.0
+    ]
+   ],
+   "area": "InsideJabuJabuBelly",
+   "base": "InsideJabuJabuBelly",
+   "box": [
+    [
+     -43,
+     67,
+     -204
+    ],
+    [
+     60,
+     122,
+     17
+    ]
+   ],
+   "cells": 45717,
+   "contact": [],
+   "file": "maps/InsideJabuJabuBelly.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10852,
+    "holds": 8025
+   }
+  },
+  "InsideTheDekuTree": {
+   "aabb": [
+    [
+     -83.0,
+     47.0,
+     -21.0
+    ],
+    [
+     42.0,
+     134.0,
+     89.0
+    ]
+   ],
+   "area": "InsideTheDekuTree",
+   "base": "InsideTheDekuTree",
+   "box": [
+    [
+     -83,
+     47,
+     -21
+    ],
+    [
+     43,
+     135,
+     90
+    ]
+   ],
+   "cells": 32285,
+   "contact": [],
+   "file": "maps/InsideTheDekuTree.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 11194,
+    "holds": 17357
+   }
+  },
+  "IronKnuckleBlackStage": {
+   "aabb": [
+    [
+     -31.0,
+     143.0,
+     -35.0
+    ],
+    [
+     25.0,
+     162.0,
+     5.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "IronKnuckleBlackStage",
+   "box": [
+    [
+     -31,
+     143,
+     -35
+    ],
+    [
+     26,
+     163,
+     6
+    ]
+   ],
+   "cells": 5306,
+   "contact": [],
+   "file": "maps/IronKnuckleBlackStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1193,
+    "holds": 1202
+   }
+  },
+  "IronKnuckleWhiteStage": {
+   "aabb": [
+    [
+     -70.0,
+     127.0,
+     7.0
+    ],
+    [
+     -43.0,
+     146.0,
+     69.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "IronKnuckleWhiteStage",
+   "box": [
+    [
+     -70,
+     127,
+     7
+    ],
+    [
+     -42,
+     147,
+     70
+    ]
+   ],
+   "cells": 5380,
+   "contact": [],
+   "file": "maps/IronKnuckleWhiteStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1321,
+    "holds": 886
+   }
+  },
+  "KakarikoVillage_Adult": {
+   "aabb": [
+    [
+     -146.0,
+     79.0,
+     -48.0
+    ],
+    [
+     19.0,
+     146.0,
+     125.0
+    ]
+   ],
+   "area": "KakarikoVillage",
+   "base": "KakarikoVillage_Adult",
+   "box": [
+    [
+     -146,
+     79,
+     -48
+    ],
+    [
+     20,
+     147,
+     126
+    ]
+   ],
+   "cells": 47867,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -26.795,
+      95.192,
+      12.373
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      3.14159,
+      1.48353,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -19.98,
+      97.246,
+      66.0
+     ]
+    }
+   ],
+   "file": "maps/KakarikoVillage_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 21980,
+    "holds": 39638
+   }
+  },
+  "KakarikoVillage_Adult_Alternative": {
+   "aabb": [
+    [
+     -146.0,
+     79.0,
+     -48.0
+    ],
+    [
+     19.0,
+     146.0,
+     125.0
+    ]
+   ],
+   "area": "KakarikoVillage",
+   "base": "KakarikoVillage_Adult_Alternative",
+   "box": [
+    [
+     -146,
+     79,
+     -48
+    ],
+    [
+     20,
+     147,
+     126
+    ]
+   ],
+   "cells": 47715,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -26.795,
+      95.192,
+      12.373
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      3.14159,
+      1.48353,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -19.98,
+      97.246,
+      66.0
+     ]
+    }
+   ],
+   "file": "maps/KakarikoVillage_Adult_Alternative.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 21867,
+    "holds": 39644
+   }
+  },
+  "KakarikoVillage_Child": {
+   "aabb": [
+    [
+     -146.0,
+     79.0,
+     -48.0
+    ],
+    [
+     19.0,
+     146.0,
+     125.0
+    ]
+   ],
+   "area": "KakarikoVillage",
+   "base": "KakarikoVillage_Child",
+   "box": [
+    [
+     -146,
+     79,
+     -48
+    ],
+    [
+     20,
+     147,
+     126
+    ]
+   ],
+   "cells": 46259,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -26.795,
+      95.192,
+      12.373
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      3.14159,
+      1.48353,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -19.98,
+      97.246,
+      66.0
+     ]
+    }
+   ],
+   "file": "maps/KakarikoVillage_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 21369,
+    "holds": 39390
+   }
+  },
+  "KokiriForest_Adult": {
+   "aabb": [
+    [
+     -137.0,
+     104.0,
+     -74.0
+    ],
+    [
+     132.0,
+     141.0,
+     60.0
+    ]
+   ],
+   "area": "KokiriForest",
+   "base": "KokiriForest_Adult",
+   "box": [
+    [
+     -137,
+     104,
+     -74
+    ],
+    [
+     133,
+     142,
+     61
+    ]
+   ],
+   "cells": 54775,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -51.934,
+      116.775,
+      -62.823
+     ]
+    }
+   ],
+   "file": "maps/KokiriForest_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27093,
+    "holds": 49859
+   }
+  },
+  "KokiriForest_Child": {
+   "aabb": [
+    [
+     -137.0,
+     104.0,
+     -74.0
+    ],
+    [
+     132.0,
+     141.0,
+     60.0
+    ]
+   ],
+   "area": "KokiriForest",
+   "base": "KokiriForest_Child",
+   "box": [
+    [
+     -137,
+     104,
+     -74
+    ],
+    [
+     133,
+     142,
+     61
+    ]
+   ],
+   "cells": 55345,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -51.934,
+      116.775,
+      -62.823
+     ]
+    }
+   ],
+   "file": "maps/KokiriForest_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 27273,
+    "holds": 49663
+   }
+  },
+  "LizalfosStage": {
+   "aabb": [
+    [
+     -76.0,
+     45.0,
+     -125.0
+    ],
+    [
+     124.0,
+     124.0,
+     84.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "LizalfosStage",
+   "box": [
+    [
+     -76,
+     45,
+     -125
+    ],
+    [
+     125,
+     125,
+     85
+    ]
+   ],
+   "cells": 62947,
+   "contact": [],
+   "file": "maps/LizalfosStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 25953,
+    "holds": 2258
+   }
+  },
+  "LostWood_Adult": {
+   "aabb": [
+    [
+     -58.0,
+     83.0,
+     -92.0
+    ],
+    [
+     78.0,
+     124.0,
+     83.0
+    ]
+   ],
+   "area": "LostWood",
+   "base": "LostWood_Adult",
+   "box": [
+    [
+     -58,
+     83,
+     -92
+    ],
+    [
+     79,
+     125,
+     84
+    ]
+   ],
+   "cells": 45607,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      3.801,
+      94.544,
+      -47.5
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      0.5236,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      27.792,
+      95.204,
+      -28.265
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.7854,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      20.5,
+      95.204,
+      -75.65
+     ]
+    }
+   ],
+   "file": "maps/LostWood_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10146,
+    "holds": 52737
+   }
+  },
+  "LostWood_Child": {
+   "aabb": [
+    [
+     -58.0,
+     83.0,
+     -92.0
+    ],
+    [
+     78.0,
+     124.0,
+     83.0
+    ]
+   ],
+   "area": "LostWood",
+   "base": "LostWood_Child",
+   "box": [
+    [
+     -58,
+     83,
+     -92
+    ],
+    [
+     79,
+     125,
+     84
+    ]
+   ],
+   "cells": 45611,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      0.5236,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      27.792,
+      95.204,
+      -28.265
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.7854,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      20.5,
+      95.204,
+      -75.65
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -1.5708,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      3.801,
+      94.544,
+      -47.5
+     ]
+    }
+   ],
+   "file": "maps/LostWood_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10141,
+    "holds": 52740
+   }
+  },
+  "Market_Adult": {
+   "aabb": [
+    [
+     -31.0,
+     97.0,
+     -61.0
+    ],
+    [
+     158.0,
+     154.0,
+     85.0
+    ]
+   ],
+   "area": "Market",
+   "base": "Market_Adult",
+   "box": [
+    [
+     -31,
+     97,
+     -61
+    ],
+    [
+     159,
+     155,
+     86
+    ]
+   ],
+   "cells": 62202,
+   "contact": [],
+   "file": "maps/Market_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 9987,
+    "holds": 72964
+   }
+  },
+  "Market_Child": {
+   "aabb": [
+    [
+     -136.0,
+     95.0,
+     -56.0
+    ],
+    [
+     190.0,
+     154.0,
+     85.0
+    ]
+   ],
+   "area": "Market",
+   "base": "Market_Child",
+   "box": [
+    [
+     -136,
+     95,
+     -56
+    ],
+    [
+     191,
+     155,
+     86
+    ]
+   ],
+   "cells": 70773,
+   "contact": [
+    {
+     "kind": "conditional",
+     "module": "Market_Child_Prefab_d415",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      4.58,
+      4.0,
+      5.0
+     ],
+     "shape": "box",
+     "t": [
+      -24.159,
+      100.136,
+      31.054
+     ]
+    }
+   ],
+   "file": "maps/Market_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 18552,
+    "holds": 43854
+   }
+  },
+  "MegStage": {
+   "aabb": [
+    [
+     -60.0,
+     84.0,
+     -53.0
+    ],
+    [
+     47.0,
+     141.0,
+     26.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "MegStage",
+   "box": [
+    [
+     -60,
+     84,
+     -53
+    ],
+    [
+     48,
+     142,
+     27
+    ]
+   ],
+   "cells": 43482,
+   "contact": [],
+   "file": "maps/MegStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10776,
+    "holds": 9082
+   }
+  },
+  "MorphaStage": {
+   "aabb": [
+    [
+     -25.0,
+     123.0,
+     -112.0
+    ],
+    [
+     15.0,
+     150.0,
+     -38.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "MorphaStage",
+   "box": [
+    [
+     -25,
+     123,
+     -112
+    ],
+    [
+     16,
+     151,
+     -37
+    ]
+   ],
+   "cells": 12575,
+   "contact": [],
+   "file": "maps/MorphaStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 3429,
+    "holds": 4143
+   }
+  },
+  "NaboruStage": {
+   "aabb": [
+    [
+     -18.0,
+     134.0,
+     -121.0
+    ],
+    [
+     17.0,
+     149.0,
+     -67.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "NaboruStage",
+   "box": [
+    [
+     -18,
+     134,
+     -121
+    ],
+    [
+     18,
+     150,
+     -66
+    ]
+   ],
+   "cells": 7258,
+   "contact": [],
+   "file": "maps/NaboruStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1486,
+    "holds": 831
+   }
+  },
+  "PhantomGanonStage": {
+   "aabb": [
+    [
+     -18.0,
+     58.0,
+     -78.0
+    ],
+    [
+     17.0,
+     101.0,
+     -41.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "PhantomGanonStage",
+   "box": [
+    [
+     -18,
+     58,
+     -78
+    ],
+    [
+     18,
+     102,
+     -40
+    ]
+   ],
+   "cells": 9180,
+   "contact": [],
+   "file": "maps/PhantomGanonStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1301,
+    "holds": 1049
+   }
+  },
+  "SacredForestMeadow_Adult": {
+   "aabb": [
+    [
+     -29.0,
+     82.0,
+     -132.0
+    ],
+    [
+     16.0,
+     134.0,
+     96.0
+    ]
+   ],
+   "area": "SacredForestMeadow",
+   "base": "SacredForestMeadow_Adult",
+   "box": [
+    [
+     -29,
+     82,
+     -132
+    ],
+    [
+     17,
+     135,
+     97
+    ]
+   ],
+   "cells": 34697,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.0,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -4.151,
+      95.243,
+      1.92
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -1.1408,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -1.632,
+      95.2,
+      51.165
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      -0.7854,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      1.334,
+      109.589,
+      -85.469
+     ]
+    }
+   ],
+   "file": "maps/SacredForestMeadow_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10480,
+    "holds": 29155
+   }
+  },
+  "SacredForestMeadow_Child": {
+   "aabb": [
+    [
+     -29.0,
+     82.0,
+     -132.0
+    ],
+    [
+     16.0,
+     134.0,
+     96.0
+    ]
+   ],
+   "area": "SacredForestMeadow",
+   "base": "SacredForestMeadow_Child",
+   "box": [
+    [
+     -29,
+     82,
+     -132
+    ],
+    [
+     17,
+     135,
+     97
+    ]
+   ],
+   "cells": 34697,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      -0.7854,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      1.334,
+      109.589,
+      -85.469
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      0.0,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -4.151,
+      95.243,
+      1.92
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -1.1408,
+      -0.0
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -1.632,
+      95.2,
+      51.165
+     ]
+    }
+   ],
+   "file": "maps/SacredForestMeadow_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10595,
+    "holds": 29922
+   }
+  },
+  "ShadowTemple": {
+   "aabb": [
+    [
+     -233.0,
+     -39.0,
+     -125.0
+    ],
+    [
+     184.0,
+     122.0,
+     118.0
+    ]
+   ],
+   "area": "ShadowTemple",
+   "base": "ShadowTemple",
+   "box": [
+    [
+     -233,
+     -39,
+     -125
+    ],
+    [
+     185,
+     123,
+     119
+    ]
+   ],
+   "cells": 340892,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      11.016,
+      10.975,
+      9.336
+     ],
+     "shape": "box",
+     "t": [
+      17.987,
+      85.161,
+      1.277
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      15.6,
+      9.906,
+      13.977
+     ],
+     "shape": "box",
+     "t": [
+      -138.485,
+      35.689,
+      5.514
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      95.0,
+      12.347,
+      95.0
+     ],
+     "shape": "box",
+     "t": [
+      -139.037,
+      -18.67,
+      29.99
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      22.016,
+      9.145,
+      10.043
+     ],
+     "shape": "box",
+     "t": [
+      97.596,
+      42.999,
+      4.389
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "ShadowTemple_Level_Room_B3FB4F_P_Prefab_8f09",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      2.025,
+      1.0,
+      2.261
+     ],
+     "shape": "box",
+     "t": [
+      -138.188,
+      37.622,
+      29.665
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "ShadowTemple_Level_Room_B3FB4F_P_Prefab_8f09",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      12.033,
+      9.373,
+      10.616
+     ],
+     "shape": "box",
+     "t": [
+      -138.033,
+      40.101,
+      30.364
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "ShadowTemple_Level_Room_B3FB4F_P_Prefab_8f09",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      3.204,
+      12.287,
+      3.259
+     ],
+     "shape": "box",
+     "t": [
+      -138.199,
+      17.236,
+      29.638
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "ShadowTemple_Level_Room_B3FB4F_P_Prefab_8f09",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      3.721,
+      8.582,
+      3.69
+     ],
+     "shape": "box",
+     "t": [
+      -138.199,
+      19.791,
+      29.638
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      3.1399,
+      -0.0,
+      -5e-05
+     ],
+     "s": [
+      46.653,
+      8.501,
+      28.88
+     ],
+     "shape": "box",
+     "t": [
+      82.279,
+      47.579,
+      75.164
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      9.885,
+      10.975,
+      9.336
+     ],
+     "shape": "box",
+     "t": [
+      55.488,
+      85.161,
+      1.277
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "ShadowTemple_Level_Room_B1F_A_Prefab_2af5",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      10.0,
+      10.0,
+      10.0
+     ],
+     "shape": "box",
+     "t": [
+      38.797,
+      65.176,
+      0.971
+     ]
+    }
+   ],
+   "file": "maps/ShadowTemple.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 67574,
+    "holds": 140211
+   }
+  },
+  "SpiritTemple": {
+   "aabb": [
+    [
+     -67.0,
+     85.0,
+     -196.0
+    ],
+    [
+     66.0,
+     183.0,
+     52.0
+    ]
+   ],
+   "area": "SpiritTemple",
+   "base": "SpiritTemple",
+   "box": [
+    [
+     -67,
+     85,
+     -196
+    ],
+    [
+     67,
+     184,
+     53
+    ]
+   ],
+   "cells": 107382,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      14.4,
+      14.4,
+      14.4
+     ],
+     "shape": "box",
+     "t": [
+      -33.373,
+      99.75,
+      -78.763
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      9.0,
+      9.0,
+      9.0
+     ],
+     "shape": "box",
+     "t": [
+      -15.435,
+      99.75,
+      -52.685
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      10.5,
+      6.0,
+      10.5
+     ],
+     "shape": "box",
+     "t": [
+      38.684,
+      125.0,
+      -22.862
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      9.0,
+      9.0,
+      9.0
+     ],
+     "shape": "box",
+     "t": [
+      -51.992,
+      99.75,
+      -52.499
+     ]
+    }
+   ],
+   "file": "maps/SpiritTemple.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 25398,
+    "holds": 51649
+   }
+  },
+  "StalfosStage": {
+   "aabb": [
+    [
+     -202.0,
+     -1.0,
+     -133.0
+    ],
+    [
+     185.0,
+     127.0,
+     22.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "StalfosStage",
+   "box": [
+    [
+     -202,
+     -1,
+     -133
+    ],
+    [
+     186,
+     128,
+     23
+    ]
+   ],
+   "cells": 285112,
+   "contact": [],
+   "file": "maps/StalfosStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 47160,
+    "holds": 64648
+   }
+  },
+  "StalfosWeakStage": {
+   "aabb": [
+    [
+     -8.0,
+     104.0,
+     -64.0
+    ],
+    [
+     7.0,
+     113.0,
+     -32.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "StalfosWeakStage",
+   "box": [
+    [
+     -8,
+     104,
+     -64
+    ],
+    [
+     8,
+     114,
+     -31
+    ]
+   ],
+   "cells": 1804,
+   "contact": [],
+   "file": "maps/StalfosWeakStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 356,
+    "holds": 380
+   }
+  },
+  "TwinrovaStage": {
+   "aabb": [
+    [
+     -38.0,
+     134.0,
+     -196.0
+    ],
+    [
+     38.0,
+     183.0,
+     -76.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "TwinrovaStage",
+   "box": [
+    [
+     -38,
+     134,
+     -196
+    ],
+    [
+     39,
+     184,
+     -75
+    ]
+   ],
+   "cells": 37589,
+   "contact": [],
+   "file": "maps/TwinrovaStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 7532,
+    "holds": 8236
+   }
+  },
+  "VolvagiaStage": {
+   "aabb": [
+    [
+     -124.0,
+     -1.0,
+     -125.0
+    ],
+    [
+     124.0,
+     146.0,
+     124.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "VolvagiaStage",
+   "box": [
+    [
+     -124,
+     -1,
+     -125
+    ],
+    [
+     125,
+     147,
+     125
+    ]
+   ],
+   "cells": 298506,
+   "contact": [],
+   "file": "maps/VolvagiaStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 69440,
+    "holds": 18896
+   }
+  },
+  "WaterTemple": {
+   "aabb": [
+    [
+     -102.0,
+     77.0,
+     -131.0
+    ],
+    [
+     58.0,
+     150.0,
+     78.0
+    ]
+   ],
+   "area": "WaterTemple",
+   "base": "WaterTemple",
+   "box": [
+    [
+     -103,
+     77,
+     -131
+    ],
+    [
+     55,
+     151,
+     53
+    ]
+   ],
+   "cells": 94091,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.7854,
+      0.0
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      3.5,
+      98.14,
+      -81.34
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.7854,
+      0.0
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      3.632,
+      91.155,
+      -81.472
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -1.309,
+      0.0
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -58.5,
+      108.765,
+      -50.47
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -1.309,
+      0.0
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -58.32,
+      101.78,
+      -50.518
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.34907,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -78.5,
+      108.765,
+      -84.77
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.34907,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -78.436,
+      101.78,
+      -84.595
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -1.13446,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -70.5,
+      108.765,
+      -39.69
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -1.13446,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -70.331,
+      101.78,
+      -39.611
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.69813,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -44.829,
+      108.765,
+      -44.59
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.69813,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -44.709,
+      101.78,
+      -44.447
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -53.15,
+      108.765,
+      -56.84
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.08727,
+      0.0
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -53.133,
+      101.78,
+      -57.026
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.69813,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -80.055,
+      108.765,
+      -45.068
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.69813,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -79.935,
+      101.78,
+      -44.925
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      15.0,
+      10.0,
+      7.5
+     ],
+     "shape": "box",
+     "t": [
+      -49.0,
+      91.0,
+      -4.5
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      0.7854,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -12.5,
+      98.139,
+      -65.66
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      0.7854,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -12.632,
+      91.155,
+      -65.528
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      0.2618,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -81.5,
+      108.765,
+      -59.78
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      0.2618,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -81.548,
+      101.78,
+      -59.6
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "WaterTemple_Level_Room_00_Prefab_ccaa",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      1.5,
+      1.0,
+      1.5
+     ],
+     "shape": "box",
+     "t": [
+      2.508,
+      97.792,
+      -4.448
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "WaterTemple_Level_Room_00_Prefab_ccaa",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      1.5,
+      1.0,
+      1.5
+     ],
+     "shape": "box",
+     "t": [
+      -4.489,
+      97.718,
+      -11.523
+     ]
+    },
+    {
+     "kind": "conditional",
+     "module": "WaterTemple_Level_Room_00_Prefab_ccaa",
+     "r": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "s": [
+      5.5,
+      1.0,
+      1.5
+     ],
+     "shape": "box",
+     "t": [
+      -15.068,
+      97.586,
+      -4.517
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.17453,
+      0.0
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -35.0,
+      108.765,
+      -42.63
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.17453,
+      0.0
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -34.968,
+      101.78,
+      -42.814
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -65.376,
+      108.765,
+      -46.513
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      -3.14159,
+      -0.0,
+      0.0
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -65.376,
+      101.78,
+      -46.7
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.0,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -50.5,
+      108.765,
+      -42.422
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      -0.0,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -50.5,
+      101.78,
+      -42.235
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      0.17453,
+      3.14159
+     ],
+     "s": [
+      0.5,
+      4.952,
+      0.5
+     ],
+     "shape": "box",
+     "t": [
+      -79.956,
+      108.765,
+      -72.734
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "WaterTemple_Whirlpool_3679",
+     "r": [
+      0.0,
+      0.17453,
+      3.14159
+     ],
+     "s": [
+      1.893,
+      1.0,
+      2.5
+     ],
+     "shape": "box",
+     "t": [
+      -79.989,
+      101.78,
+      -72.55
+     ]
+    }
+   ],
+   "file": "maps/WaterTemple.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 24187,
+    "holds": 25944
+   }
+  },
+  "WolfosStage": {
+   "aabb": [
+    [
+     -250.0,
+     49.0,
+     -250.0
+    ],
+    [
+     249.0,
+     194.0,
+     249.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "WolfosStage",
+   "box": [
+    [
+     -250,
+     49,
+     -250
+    ],
+    [
+     250,
+     195,
+     250
+    ]
+   ],
+   "cells": 535164,
+   "contact": [],
+   "file": "maps/WolfosStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 272106,
+    "holds": 5505
+   }
+  },
+  "WolfosWhiteStage": {
+   "aabb": [
+    [
+     -64.0,
+     109.0,
+     25.0
+    ],
+    [
+     -30.0,
+     121.0,
+     50.0
+    ]
+   ],
+   "area": "DreamWorld",
+   "base": "WolfosWhiteStage",
+   "box": [
+    [
+     -64,
+     109,
+     25
+    ],
+    [
+     -29,
+     122,
+     51
+    ]
+   ],
+   "cells": 3226,
+   "contact": [],
+   "file": "maps/WolfosWhiteStage.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 1502,
+    "holds": 980
+   }
+  },
+  "ZoraDomain_Adult": {
+   "aabb": [
+    [
+     -32.0,
+     60.0,
+     -54.0
+    ],
+    [
+     124.0,
+     143.0,
+     31.0
+    ]
+   ],
+   "area": "ZoraDomain",
+   "base": "ZoraDomain_Adult",
+   "box": [
+    [
+     -32,
+     60,
+     -54
+    ],
+    [
+     125,
+     144,
+     32
+    ]
+   ],
+   "cells": 21410,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      0.95993,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      16.987,
+      95.438,
+      -18.261
+     ]
+    }
+   ],
+   "file": "maps/ZoraDomain_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 10297,
+    "holds": 31384
+   }
+  },
+  "ZoraDomain_Adult_Alternative": {
+   "aabb": [
+    [
+     -32.0,
+     60.0,
+     -54.0
+    ],
+    [
+     124.0,
+     143.0,
+     31.0
+    ]
+   ],
+   "area": "ZoraDomain",
+   "base": "ZoraDomain_Adult_Alternative",
+   "box": [
+    [
+     -32,
+     60,
+     -54
+    ],
+    [
+     125,
+     144,
+     32
+    ]
+   ],
+   "cells": 23497,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      0.95993,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      16.987,
+      95.438,
+      -18.261
+     ]
+    }
+   ],
+   "file": "maps/ZoraDomain_Adult_Alternative.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 8536,
+    "holds": 20888
+   }
+  },
+  "ZoraDomain_Child": {
+   "aabb": [
+    [
+     -32.0,
+     60.0,
+     -54.0
+    ],
+    [
+     124.0,
+     143.0,
+     31.0
+    ]
+   ],
+   "area": "ZoraDomain",
+   "base": "ZoraDomain_Child",
+   "box": [
+    [
+     -32,
+     60,
+     -54
+    ],
+    [
+     125,
+     144,
+     32
+    ]
+   ],
+   "cells": 23508,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      -0.0,
+      0.95993,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      16.987,
+      95.438,
+      -18.261
+     ]
+    }
+   ],
+   "file": "maps/ZoraDomain_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 8531,
+    "holds": 20899
+   }
+  },
+  "ZoraFountain_Adult": {
+   "aabb": [
+    [
+     -68.0,
+     71.0,
+     -92.0
+    ],
+    [
+     95.0,
+     143.0,
+     127.0
+    ]
+   ],
+   "area": "ZoraFountain",
+   "base": "ZoraFountain_Adult",
+   "box": [
+    [
+     -68,
+     71,
+     -92
+    ],
+    [
+     96,
+     144,
+     128
+    ]
+   ],
+   "cells": 63878,
+   "contact": [],
+   "file": "maps/ZoraFountain_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 17739,
+    "holds": 61578
+   }
+  },
+  "ZoraFountain_Child": {
+   "aabb": [
+    [
+     -68.0,
+     71.0,
+     -91.0
+    ],
+    [
+     95.0,
+     143.0,
+     127.0
+    ]
+   ],
+   "area": "ZoraFountain",
+   "base": "ZoraFountain_Child",
+   "box": [
+    [
+     -68,
+     71,
+     -91
+    ],
+    [
+     96,
+     144,
+     128
+    ]
+   ],
+   "cells": 60127,
+   "contact": [],
+   "file": "maps/ZoraFountain_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 16823,
+    "holds": 61659
+   }
+  },
+  "ZoraRiver_Adult": {
+   "aabb": [
+    [
+     -140.0,
+     74.0,
+     -74.0
+    ],
+    [
+     162.0,
+     169.0,
+     44.0
+    ]
+   ],
+   "area": "ZoraRiver",
+   "base": "ZoraRiver_Adult",
+   "box": [
+    [
+     -140,
+     74,
+     -74
+    ],
+    [
+     163,
+     170,
+     45
+    ]
+   ],
+   "cells": 70616,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      0.38508,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -78.053,
+      94.349,
+      -16.791
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      5.176,
+      109.425,
+      -16.274
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -15.745,
+      110.404,
+      14.834
+     ]
+    }
+   ],
+   "file": "maps/ZoraRiver_Adult.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 23178,
+    "holds": 83819
+   }
+  },
+  "ZoraRiver_Child": {
+   "aabb": [
+    [
+     -140.0,
+     74.0,
+     -74.0
+    ],
+    [
+     162.0,
+     169.0,
+     44.0
+    ]
+   ],
+   "area": "ZoraRiver",
+   "base": "ZoraRiver_Child",
+   "box": [
+    [
+     -140,
+     74,
+     -74
+    ],
+    [
+     163,
+     170,
+     45
+    ]
+   ],
+   "cells": 70694,
+   "contact": [
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      0.38508,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -78.053,
+      94.349,
+      -16.791
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      -15.745,
+      110.404,
+      14.834
+     ]
+    },
+    {
+     "kind": "void",
+     "module": "Gimmick_AreaContact_FallDown_0a27",
+     "r": [
+      0.0,
+      -0.0,
+      -3.14159
+     ],
+     "s": [
+      1.0,
+      0.1,
+      1.0
+     ],
+     "shape": "cylinder",
+     "t": [
+      5.176,
+      109.425,
+      -16.274
+     ]
+    }
+   ],
+   "file": "maps/ZoraRiver_Child.vgz",
+   "marks": [],
+   "recovery": {
+    "follows": 23147,
+    "holds": 83674
+   }
+  }
+ },
+ "ragdollClasses": [
+  "both",
+  "rough twin",
+  "ragdoll only"
+ ],
+ "recoveryClasses": [
+  "follows",
+  "holds"
+ ]
+}

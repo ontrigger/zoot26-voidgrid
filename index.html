@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OoT Void-out Grid</title>
+<meta name="description" content="The 1 m grid Ocarina of Time checks for void-outs and save recovery, over each map's collision">
+<style>
+:root{--bg:#15171c;--panel:#1f2229ee;--text:#e6e8ec;--muted:#9aa1ad;--line:#343844;--accent:#5aa9ff}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:13px/1.4 system-ui,sans-serif;overflow:hidden}
+#c{position:fixed;inset:0}
+#ui{position:fixed;top:12px;left:12px;width:290px;max-width:calc(100% - 24px);box-sizing:border-box;max-height:calc(100% - 24px);overflow:auto;
+ background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+#ui .row{margin:7px 0}#ui label{display:block;color:var(--muted)}
+#ui select,#ui input[type=range]{width:100%}
+#ui input[type=text]{width:100%;box-sizing:border-box;background:#111;color:var(--text);border:1px solid var(--line);border-radius:4px;padding:3px}
+#ui select{background:#111;color:var(--text);border:1px solid var(--line);border-radius:4px;padding:3px}
+.legend{display:flex;flex-wrap:wrap;gap:4px 10px;margin-top:4px;color:var(--muted);font-size:12px}
+.legend span{display:inline-flex;align-items:center;gap:4px}
+.legend i{width:10px;height:10px;border-radius:2px;display:inline-block}
+.mono{white-space:pre;font:12px ui-monospace,monospace}
+.chk{display:flex!important;gap:6px;align-items:center;color:var(--text)!important}
+#keys{color:var(--muted);font-size:12px}#keys b{color:var(--text);font-weight:600}
+#cross{position:fixed;left:50%;top:50%;width:14px;height:14px;margin:-7px 0 0 -7px;pointer-events:none;display:none}
+#cross:before,#cross:after{content:"";position:absolute;background:#fff;opacity:.8}
+#cross:before{left:6px;top:0;width:2px;height:14px}#cross:after{top:6px;left:0;height:2px;width:14px}
+#hud{position:fixed;bottom:10px;left:50%;transform:translateX(-50%);background:var(--panel);border:1px solid var(--line);
+ border-radius:6px;padding:4px 10px;color:var(--muted)}
+#loading{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);font-size:15px;display:none;text-align:center}
+#hide{float:right;background:none;border:0;color:var(--muted);cursor:pointer;font:inherit;padding:0}
+#ui.min>.row{display:none}#ui.min{width:auto}
+</style>  <script type="module" crossorigin src="./assets/index-VWX34qjm.js"></script>
+</head><body>
+<canvas id="c"></canvas><div id="cross"></div><div id="loading">loading…</div>
+<div id="ui">
+ <button id="hide" title="hide the panel">–</button>
+ <div class="row"><label>Level</label><select id="level"></select></div>
+ <div class="row" id="stats" style="color:var(--muted);white-space:pre-line"></div>
+ <div class="row"><label>Colour cells by</label><select id="mode">
+  <option value="void">void-out cubes (fields 18 + 19)</option><option value="outside">OutsideOuterBoundary</option><option value="dist">OuterBoundaryDist</option>
+  <option value="intersect">Intersect (touches geometry)</option><option value="plain">plain</option></select>
+  <div id="legend" class="legend"></div></div>
+ <div class="row" id="filtrow"><label>Show cells</label><select id="filt">
+  <option value="all">all</option><option value="void">void-out cubes only</option><option value="outside0">OutsideOuterBoundary 0 only</option><option value="outside1">OutsideOuterBoundary 1 only</option></select></div>
+ <div class="row"><label>Cells as</label><select id="draw"><option value="auto">auto (cubes, points over 400k)</option>
+  <option value="cubes">cubes</option><option value="points">points</option></select></div>
+ <div class="row"><label>Cell size <b id="csv"></b></label><input type="range" id="cs" min="0.2" max="1" step="0.05" value="0.85"></div>
+ <div class="row" id="recrow" style="display:none"><label class="chk"><input type="checkbox" id="showrec" checked>save recovery</label>
+  <div id="reclegend" class="legend"></div>
+  <label class="chk"><input type="checkbox" id="recheld">hide where it follows</label></div>
+ <div class="row"><label>Collision</label><select id="colset"><option value="link">what stops Link (both sides)</option><option value="ragdoll">what Link's ragdoll hits (front faces only)</option></select>
+  <div id="collegend" class="legend"></div></div>
+ <div class="row"><label class="chk"><input type="checkbox" id="showcol" checked>collision</label>
+  <label class="chk"><input type="checkbox" id="showair" checked>air walls (see-through)</label>
+  <label class="chk"><input type="checkbox" id="showcells" checked>cells</label>
+  <label class="chk"><input type="checkbox" id="showarea" checked>contact areas</label>
+  <div id="arealegend" class="legend"></div>
+  <label class="chk"><input type="checkbox" id="showbox" checked>void box</label>
+  <div id="boxlegend" class="legend"></div></div>
+ <div class="row"><label>Controls</label><select id="ctl"><option value="fly">fly (first person)</option><option value="orbit">orbit</option></select>
+  <div id="keys"></div></div>
+ <div class="row"><label>Go to x y z</label><input type="text" id="goto" placeholder="-29.7 129.9 -116.9"></div>
+ <div class="row mono" id="info">click a cell</div>
+</div>
+<div id="hud" class="mono"></div>
+</body></html>
