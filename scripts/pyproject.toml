@@ -1,0 +1,12 @@
+[project]
+name = "oot-voidgrid"
+version = "0.1.0"
+description = "3D viewer for Ocarina of Time's void-out grid, drawn over each map's collision"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "zstandard",
+]
+
+[tool.uv]
+package = false

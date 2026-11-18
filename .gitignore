@@ -1,0 +1,8 @@
+# built data: published on the gh-pages branch only (scripts/publish.py)
+site/data/
+.publish/
+__pycache__/
+.venv/
+*.tmp
+node_modules/
+dist/
